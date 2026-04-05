@@ -1,0 +1,4583 @@
+[
+  {
+    "keyword": "sell ebook without monthly subscription fee",
+    "slug": "sell-ebook-no-monthly-fee",
+    "title": "How to Sell Ebooks Online Without Paying a Monthly Subscription",
+    "problem_description": "Creators are tired of paying $29/month to platforms just to host a single $10 PDF.",
+    "how_to_solve": "Generate a static HTML page with Stripe Checkout and host for free on GitHub Pages.",
+    "use_cases": [
+      "Selling a single ebook without recurring fees",
+      "Creating a simple landing page for digital products",
+      "Hosting multiple ebooks on a single static site",
+      "Testing a new ebook idea without upfront costs"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need technical skills to set up this solution?",
+        "answer": "No, OnePageSaaS generates the HTML code for you. Just copy and paste it to your hosting provider."
+      },
+      {
+        "question": "Can I use this for multiple ebooks?",
+        "answer": "Yes, you can generate a separate HTML page for each ebook or create a single page with multiple products."
+      },
+      {
+        "question": "How secure is the payment process?",
+        "answer": "All payments are processed through Stripe, which is PCI compliant and uses industry-standard encryption."
+      },
+      {
+        "question": "Can I customize the design of my ebook sales page?",
+        "answer": "Yes, you can modify the generated HTML and CSS to match your brand's style."
+      },
+      {
+        "question": "What happens if I need to update my ebook?",
+        "answer": "Simply re-upload the new PDF file and update the download link in your HTML page."
+      }
+    ],
+    "features_pool": [
+      "Stripe Checkout integration",
+      "Free GitHub Pages hosting",
+      "Responsive design for all devices",
+      "Instant digital delivery",
+      "Customizable CSS styling",
+      "Zero monthly fees"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Product"
+  },
+  {
+    "keyword": "send web form to telegram without backend",
+    "slug": "web-form-to-telegram-no-backend",
+    "title": "Zero-Server Setup: Send Website Contact Forms Directly to Telegram",
+    "problem_description": "Small business owners want to collect leads without managing a database or server.",
+    "how_to_solve": "OnePageSaaS embeds a fetch request to the Telegram Bot API directly in the HTML.",
+    "use_cases": [
+      "Contact forms for small business websites",
+      "Lead collection for marketing campaigns",
+      "Support request forms for personal projects",
+      "Event registration forms",
+      "Feedback collection from website visitors"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Telegram account to use this?",
+        "answer": "Yes, you'll need a Telegram account to create a bot and receive messages."
+      },
+      {
+        "question": "Is there a limit to how many form submissions I can receive?",
+        "answer": "Telegram has rate limits, but for most small businesses, this won't be an issue."
+      },
+      {
+        "question": "Can I customize the form fields?",
+        "answer": "Yes, you can modify the HTML to add or remove form fields as needed."
+      },
+      {
+        "question": "Is the data secure?",
+        "answer": "The form data is sent directly to your Telegram chat, which is end-to-end encrypted."
+      },
+      {
+        "question": "What if I want to store the data somewhere else?",
+        "answer": "You can modify the fetch request to send data to other services like Discord or Email."
+      }
+    ],
+    "features_pool": [
+      "Zero-server setup",
+      "Real-time Telegram notifications",
+      "Customizable form fields",
+      "No database required",
+      "Easy to implement",
+      "Free to use"
+    ],
+    "style_hint": "brutalist",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "self-hosted linktree alternative open source",
+    "slug": "self-hosted-linktree-alternative",
+    "title": "Stop Paying for Linktree: Build Your Own Private Bio Link Page",
+    "problem_description": "Users want customization and don't want a third-party platform tracking their traffic data.",
+    "how_to_solve": "Export a minimalist, high-performance HTML profile page that you own 100%.",
+    "use_cases": [
+      "Social media bio links for influencers",
+      "Portfolio links for freelancers",
+      "Event promotion with multiple links",
+      "Business contact information hub",
+      "Non-profit organization resource links"
+    ],
+    "faqs": [
+      "Do I need a hosting provider for this?",
+      "Yes, you'll need to host the HTML file on a service like GitHub Pages, Netlify, or Vercel."
+    ],
+    "features_pool": [
+      "100% ownership of your data",
+      "Fully customizable design",
+      "Fast loading times",
+      "No platform branding",
+      "Unlimited links",
+      "Open source code"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "WebPage"
+  },
+  {
+    "keyword": "one page website with payment button",
+    "slug": "one-page-site-with-payment",
+    "title": "5-Minute Setup: Create a One-Page Website with a Buy Now Button",
+    "problem_description": "Entrepreneurs find modern website builders too bloated for a simple 'one-product' business.",
+    "how_to_solve": "A single HTML file that handles the pitch and the payment without a CMS.",
+    "use_cases": [
+      "Selling a single digital product",
+      "Promoting a service with payment option",
+      "Accepting donations for a cause",
+      "Selling event tickets",
+      "Offering a limited-time promotion"
+    ],
+    "faqs": [
+      {
+        "question": "How long does it take to set up?",
+        "answer": "With OnePageSaaS, you can create and deploy your page in as little as 5 minutes."
+      },
+      {
+        "question": "Can I use PayPal instead of Stripe?",
+        "answer": "Yes, you can add PayPal buttons to your generated HTML page."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the generated pages are fully responsive and work on all devices."
+      },
+      {
+        "question": "Can I add images to my page?",
+        "answer": "Yes, you can include images by adding them to your hosting and referencing them in the HTML."
+      },
+      {
+        "question": "What if I need to update my page?",
+        "answer": "Simply regenerate the HTML with your changes and re-upload it to your hosting."
+      }
+    ],
+    "features_pool": [
+      "5-minute setup",
+      "No CMS required",
+      "Stripe and PayPal integration",
+      "Responsive design",
+      "Fast loading times",
+      "Easy to update"
+    ],
+    "style_hint": "brutalist",
+    "schema_type": "WebPage"
+  },
+  {
+    "keyword": "how to bypass gumroad fees",
+    "slug": "bypass-gumroad-transaction-fees",
+    "title": "Keep 100% of Your Profit: Moving from Gumroad to Static HTML",
+    "problem_description": "High transaction fees are eating into creator margins; they want to use Stripe directly.",
+    "how_to_solve": "OnePageSaaS connects your page directly to your Stripe account, bypassing platform cuts.",
+    "use_cases": [
+      "Selling digital products without platform fees",
+      "Increasing profit margins on existing products",
+      "Creating a direct sales channel for loyal customers",
+      "Testing new products without platform restrictions",
+      "Building a brand-owned sales platform"
+    ],
+    "faqs": [
+      {
+        "question": "How much can I save by bypassing Gumroad?",
+        "answer": "Gumroad charges 10% + $0.30 per transaction, so you can save significant amounts on each sale."
+      },
+      {
+        "question": "Do I need a Stripe account?",
+        "answer": "Yes, you'll need a Stripe account to process payments directly."
+      },
+      {
+        "question": "Is the setup process complicated?",
+        "answer": "No, OnePageSaaS generates the code for you. Just connect your Stripe account and deploy."
+      },
+      {
+        "question": "Can I still offer discounts and coupons?",
+        "answer": "Yes, you can create discount codes directly in your Stripe dashboard."
+      },
+      {
+        "question": "What about analytics?",
+        "answer": "You can add Google Analytics or other tracking tools to your static page."
+      }
+    ],
+    "features_pool": [
+      "100% profit retention",
+      "Direct Stripe integration",
+      "No platform restrictions",
+      "Customizable checkout process",
+      "Fast loading times",
+      "Easy to deploy"
+    ],
+    "style_hint": "hacker",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "collect email leads without database",
+    "slug": "collect-leads-no-database",
+    "title": "The Ghost Backend: Collecting Email Leads Without an SQL Database",
+    "problem_description": "Users fear data breaches and the maintenance overhead of managing a database.",
+    "how_to_solve": "Pipe data to Discord Webhooks or Google Sheets via a generated Cloudflare Worker.",
+    "use_cases": [
+      "Email newsletter signups",
+      "Lead collection for sales teams",
+      "Event registration",
+      "Feedback collection",
+      "Customer support requests"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need to know how to code?",
+        "answer": "No, OnePageSaaS generates all the necessary code for you."
+      },
+      {
+        "question": "Is this method secure?",
+        "answer": "Yes, the data is sent directly to your chosen service (Discord or Google Sheets) without storing it on a server."
+      },
+      {
+        "question": "Can I export the leads later?",
+        "answer": "Yes, if you use Google Sheets, you can easily export the data to CSV or other formats."
+      },
+      {
+        "question": "Is there a limit to how many leads I can collect?",
+        "answer": "The limits depend on your Cloudflare Worker plan, but the free tier should be sufficient for most small businesses."
+      },
+      {
+        "question": "Can I integrate with email marketing services?",
+        "answer": "Yes, you can modify the code to send data to services like Mailchimp or ConvertKit."
+      }
+    ],
+    "features_pool": [
+      "No database required",
+      "Cloudflare Worker integration",
+      "Discord and Google Sheets support",
+      "Secure data transfer",
+      "Easy to set up",
+      "Scalable solution"
+    ],
+    "style_hint": "hacker",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "fastest loading landing page for mobile",
+    "slug": "fastest-mobile-landing-page",
+    "title": "Why Your 5MB WordPress Site is Killing Your Conversion Rate",
+    "problem_description": "Mobile users drop off if a page takes more than 2 seconds to load. Heavy builders are too slow.",
+    "how_to_solve": "A <20KB HTML file with zero dependencies ensures a 100/100 Google PageSpeed score.",
+    "use_cases": [
+      "Mobile-first landing pages",
+      "High-conversion sales pages",
+      "Event promotion pages",
+      "App download pages",
+      "Lead generation pages"
+    ],
+    "faqs": [
+      {
+        "question": "How fast will my page load?",
+        "answer": "Static HTML pages generated by OnePageSaaS typically load in under 1 second on mobile devices."
+      },
+      {
+        "question": "Can I still have a beautiful design?",
+        "answer": "Yes, you can create stunning designs with minimal CSS that load quickly."
+      },
+      {
+        "question": "What about SEO?",
+        "answer": "Fast-loading pages rank better in search engines, and you can add all the necessary meta tags."
+      },
+      {
+        "question": "Can I add images?",
+        "answer": "Yes, but optimize them properly to keep the page size small."
+      },
+      {
+        "question": "How does this compare to WordPress?",
+        "answer": "WordPress sites typically load in 3-5 seconds, while static HTML pages load in under 1 second."
+      }
+    ],
+    "features_pool": [
+      "<20KB page size",
+      "100/100 Google PageSpeed score",
+      "Zero dependencies",
+      "Mobile-optimized",
+      "SEO-friendly",
+      "Easy to deploy"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "WebPage"
+  },
+  {
+    "keyword": "notion template checkout page builder",
+    "slug": "notion-template-checkout-builder",
+    "title": "The Best Way to Sell Notion Templates Without a Storefront",
+    "problem_description": "Notion creators need a professional-looking landing page that isn't a generic marketplace listing.",
+    "how_to_solve": "Use a 'Hacker-Style' template designed to deliver Notion links instantly after payment.",
+    "use_cases": [
+      "Selling Notion templates directly to customers",
+      "Creating a branded landing page for Notion products",
+      "Delivering Notion links instantly after payment",
+      "Building a portfolio of Notion templates",
+      "Testing new Notion template ideas without platform fees"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Notion account to use this?",
+        "answer": "Yes, you'll need a Notion account to create and share your templates."
+      },
+      {
+        "question": "How do I deliver the Notion template after payment?",
+        "answer": "The generated page includes code to send the Notion link via email or Telegram after payment."
+      },
+      {
+        "question": "Can I sell multiple Notion templates on one page?",
+        "answer": "Yes, you can create a page with multiple templates and separate payment options."
+      },
+      {
+        "question": "Is this method secure?",
+        "answer": "Yes, payments are processed through Stripe, and the Notion links are only delivered after payment."
+      },
+      {
+        "question": "Can I customize the design of my landing page?",
+        "answer": "Yes, you can modify the generated HTML and CSS to match your brand's style."
+      }
+    ],
+    "features_pool": [
+      "Hacker-style design",
+      "Instant Notion link delivery",
+      "Stripe integration",
+      "Customizable branding",
+      "No platform fees",
+      "Responsive design"
+    ],
+    "style_hint": "hacker",
+    "schema_type": "Product"
+  },
+  {
+    "keyword": "password protect a static html page",
+    "slug": "password-protect-static-html",
+    "title": "How to Add a Password to Your HTML File Without a Login System",
+    "problem_description": "Users want to share private assets without setting up a complex Membership SaaS.",
+    "how_to_solve": "Embed a lightweight JS encryption layer that unlocks content only with the correct key.",
+    "use_cases": [
+      "Sharing private documents with clients",
+      "Creating password-protected galleries",
+      "Sharing exclusive content with subscribers",
+      "Protecting sensitive business information",
+      "Creating private landing pages for beta testers"
+    ],
+    "faqs": [
+      {
+        "question": "Is this method secure?",
+        "answer": "While it's not as secure as a server-side solution, it provides a good level of protection for most use cases."
+      },
+      {
+        "question": "Can I change the password later?",
+        "answer": "Yes, you can update the password in the JavaScript code and re-upload the HTML file."
+      },
+      {
+        "question": "Does this work on all browsers?",
+        "answer": "Yes, the JavaScript encryption works on all modern browsers."
+      },
+      {
+        "question": "Can I have multiple passwords?",
+        "answer": "Yes, you can modify the code to accept multiple passwords."
+      },
+      {
+        "question": "Is there a limit to the amount of content I can protect?",
+        "answer": "No, you can protect any amount of content within your HTML file."
+      }
+    ],
+    "features_pool": [
+      "Lightweight JS encryption",
+      "No server required",
+      "Easy to implement",
+      "Customizable password",
+      "Works on all devices",
+      "No monthly fees"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "subscription fatigue solutions for creators",
+    "slug": "stop-paying-for-saas-subscriptions",
+    "title": "The Anti-SaaS Movement: How to Run Your Business on Zero Monthly Cost",
+    "problem_description": "2026 is the year of 'Subscription Cleanse.' Users are cancelling $10/mo tools they barely use.",
+    "how_to_solve": "Generate the tool once, host it on a free tier, and run it forever with no bills.",
+    "use_cases": [
+      "Replacing multiple SaaS tools with static solutions",
+      "Reducing monthly business expenses",
+      "Creating self-hosted alternatives to paid tools",
+      "Building sustainable business infrastructure",
+      "Eliminating dependency on third-party services"
+    ],
+    "faqs": [
+      {
+        "question": "Can I really run my business without any SaaS subscriptions?",
+        "answer": "For many businesses, yes. Static solutions can replace many common SaaS tools."
+      },
+      {
+        "question": "What if I need more complex functionality?",
+        "answer": "You can still use SaaS tools for complex needs, but replace the ones you can with static solutions."
+      },
+      {
+        "question": "How much money can I save?",
+        "answer": "Many businesses can save hundreds or even thousands of dollars per year by eliminating unnecessary subscriptions."
+      },
+      {
+        "question": "Is this approach scalable?",
+        "answer": "Yes, static solutions can scale well for many use cases, especially with CDN caching."
+      },
+      {
+        "question": "How do I get started?",
+        "answer": "Identify the SaaS tools you use most and look for static alternatives or build your own with tools like OnePageSaaS."
+      }
+    ],
+    "features_pool": [
+      "Zero monthly costs",
+      "Fully owned infrastructure",
+      "Scalable solutions",
+      "Reduced dependency",
+      "Sustainable business model",
+      "Easy to implement"
+    ],
+    "style_hint": "brutalist",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "accept paypal on static website",
+    "slug": "accept-paypal-on-static-site",
+    "title": "International Sales: Adding PayPal Buttons to a Simple HTML Page",
+    "problem_description": "Freelancers need a quick way to get paid globally without a full e-commerce store.",
+    "how_to_solve": "Use an easy PayPal SDK generator to paste the exact code needed into your static page.",
+    "use_cases": [
+      "Accepting payments from international clients",
+      "Selling digital products globally",
+      "Getting paid for freelance work",
+      "Accepting donations from around the world",
+      "Selling physical products without a full e-commerce store"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a PayPal business account?",
+        "answer": "Yes, you'll need a PayPal business account to accept payments."
+      },
+      {
+        "question": "Are there any fees for using PayPal?",
+        "answer": "PayPal charges transaction fees, but there are no monthly fees for using their buttons."
+      },
+      {
+        "question": "Can I customize the PayPal button?",
+        "answer": "Yes, you can customize the button's appearance and text."
+      },
+      {
+        "question": "Is the payment process secure?",
+        "answer": "Yes, PayPal uses industry-standard encryption to protect transactions."
+      },
+      {
+        "question": "Can I use PayPal alongside other payment methods?",
+        "answer": "Yes, you can add PayPal buttons alongside other payment methods like Stripe."
+      }
+    ],
+    "features_pool": [
+      "Global payment acceptance",
+      "Easy PayPal SDK integration",
+      "Customizable buttons",
+      "Secure transactions",
+      "No monthly fees",
+      "Fast implementation"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "minimalist developer portfolio",
+    "slug": "minimalist-developer-portfolio",
+    "title": "Let Your Code Speak: The No-Framework Developer Portfolio",
+    "problem_description": "Developers want a clean, terminal-style portfolio without a 300MB node_modules folder.",
+    "how_to_solve": "A 'Hacker UI' template that generates a single index.html with a contact-to-telegram form.",
+    "use_cases": [
+      "Showcasing coding projects",
+      "Creating a professional developer profile",
+      "Providing contact information to potential clients",
+      "Demonstrating coding skills through clean design",
+      "Building a portfolio that loads quickly"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need to know how to code to use this?",
+        "answer": "No, OnePageSaaS generates the code for you, but you can modify it if you want to."
+      },
+      {
+        "question": "Can I add my projects to the portfolio?",
+        "answer": "Yes, you can add project descriptions and links to your work."
+      },
+      {
+        "question": "Is the portfolio mobile-friendly?",
+        "answer": "Yes, the generated portfolio is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I integrate with GitHub?",
+        "answer": "Yes, you can add links to your GitHub profile and projects."
+      },
+      {
+        "question": "How fast will my portfolio load?",
+        "answer": "The single HTML file loads very quickly, typically in under 1 second."
+      }
+    ],
+    "features_pool": [
+      "Hacker-style UI",
+      "Terminal-inspired design",
+      "Contact-to-Telegram form",
+      "Fast loading times",
+      "No dependencies",
+      "Easy to customize"
+    ],
+    "style_hint": "hacker",
+    "schema_type": "WebPage"
+  },
+  {
+    "keyword": "waitlist page for startup without monthly fee",
+    "slug": "free-startup-waitlist-page",
+    "title": "Validate Your Idea for $0: The Ultimate Waitlist Page Generator",
+    "problem_description": "Startups shouldn't spend $50/month on 'Waitlist SaaS' before they have customers.",
+    "how_to_solve": "A high-converting HTML template that pipes email captures to a free Telegram bot.",
+    "use_cases": [
+      "Validating startup ideas",
+      "Building an email list before launch",
+      "Gauging interest in a new product",
+      "Collecting leads for beta testing",
+      "Creating a pre-launch buzz"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Telegram account?",
+        "answer": "Yes, you'll need a Telegram account to create a bot and receive notifications."
+      },
+      {
+        "question": "How do I export the email list?",
+        "answer": "You can connect the form to Google Sheets or other services to store and export the email list."
+      },
+      {
+        "question": "Can I customize the waitlist page?",
+        "answer": "Yes, you can modify the generated HTML and CSS to match your brand's style."
+      },
+      {
+        "question": "Is there a limit to how many people can join the waitlist?",
+        "answer": "No, there's no limit to the number of people who can join your waitlist."
+      },
+      {
+        "question": "How do I send updates to the waitlist?",
+        "answer": "You can use email marketing tools or send updates via Telegram."
+      }
+    ],
+    "features_pool": [
+      "Free to use",
+      "High-converting design",
+      "Telegram bot integration",
+      "Customizable branding",
+      "No monthly fees",
+      "Easy to deploy"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "WebPage"
+  },
+  {
+    "keyword": "how to host business website on github pages",
+    "slug": "host-business-on-github-pages",
+    "title": "GitHub for Business: Hosting Your Entire SaaS Logic for Free",
+    "problem_description": "Users don't realize GitHub can host a fully functional, payment-enabled business page.",
+    "how_to_solve": "Provide business-ready HTML and a 3-step guide to deploy to GitHub Pages.",
+    "use_cases": [
+      "Hosting a business website for free",
+      "Deploying a payment-enabled landing page",
+      "Creating a portfolio for your business",
+      "Hosting documentation for your products",
+      "Building a blog for your business"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a GitHub account?",
+        "answer": "Yes, you'll need a GitHub account to use GitHub Pages."
+      },
+      {
+        "question": "Is GitHub Pages really free?",
+        "answer": "Yes, GitHub Pages is free for public repositories."
+      },
+      {
+        "question": "Can I use a custom domain?",
+        "answer": "Yes, you can configure a custom domain with GitHub Pages."
+      },
+      {
+        "question": "Is GitHub Pages secure?",
+        "answer": "Yes, GitHub Pages supports HTTPS for all sites."
+      },
+      {
+        "question": "Can I host a dynamic website on GitHub Pages?",
+        "answer": "GitHub Pages only hosts static sites, but you can use client-side JavaScript for dynamic functionality."
+      }
+    ],
+    "features_pool": [
+      "Free hosting",
+      "Business-ready HTML",
+      "3-step deployment guide",
+      "Custom domain support",
+      "HTTPS included",
+      "Easy to update"
+    ],
+    "style_hint": "brutalist",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "simple coaching booking page with stripe",
+    "slug": "coaching-booking-with-stripe",
+    "title": "Sell Your Time: A Booking Page That Doesn't Require Calendly",
+    "problem_description": "Consultants are tired of the 'Calendly + Stripe + Zapier' stack and the $40/month cost.",
+    "how_to_solve": "A single HTML file with a date picker and Stripe integration—no external subscriptions.",
+    "use_cases": [
+      "Booking coaching sessions",
+      "Selling consulting hours",
+      "Scheduling meetings with clients",
+      "Offering workshops and webinars",
+      "Booking one-on-one sessions"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Stripe account?",
+        "answer": "Yes, you'll need a Stripe account to process payments."
+      },
+      {
+        "question": "Can I set my own pricing?",
+        "answer": "Yes, you can set your own pricing for different types of sessions."
+      },
+      {
+        "question": "Is the booking process automated?",
+        "answer": "Yes, the page includes a date picker and automated payment processing."
+      },
+      {
+        "question": "Can I customize the booking page?",
+        "answer": "Yes, you can modify the generated HTML and CSS to match your brand's style."
+      },
+      {
+        "question": "How do I receive booking notifications?",
+        "answer": "You can add email notifications or connect to Telegram for real-time alerts."
+      }
+    ],
+    "features_pool": [
+      "No external subscriptions",
+      "Stripe integration",
+      "Date picker functionality",
+      "Customizable pricing",
+      "Responsive design",
+      "Easy to deploy"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "lightweight alternative to typeform",
+    "slug": "lightweight-typeform-alternative",
+    "title": "Why Typeform is Overkill for Your Small Business",
+    "problem_description": "Typeform's pricing becomes predatory once you hit a few dozen responses.",
+    "how_to_solve": "A clean, 'one-question-at-a-time' JS form that costs $0 to run on your own site.",
+    "use_cases": [
+      "Creating surveys for customers",
+      "Collecting feedback from users",
+      "Building contact forms",
+      "Creating quizzes and assessments",
+      "Collecting RSVPs for events"
+    ],
+    "faqs": [
+      {
+        "question": "Is this form responsive?",
+        "answer": "Yes, the form works on all devices, including mobile phones."
+      },
+      {
+        "question": "Can I customize the form fields?",
+        "answer": "Yes, you can add, remove, and modify form fields as needed."
+      },
+      {
+        "question": "How do I receive form submissions?",
+        "answer": "You can connect the form to email, Telegram, or Google Sheets."
+      },
+      {
+        "question": "Is there a limit to the number of responses?",
+        "answer": "No, there's no limit to the number of responses you can receive."
+      },
+      {
+        "question": "Can I add logic to the form?",
+        "answer": "Yes, you can add conditional logic to show or hide fields based on user input."
+      }
+    ],
+    "features_pool": [
+      "One-question-at-a-time design",
+      "Zero monthly cost",
+      "Customizable form fields",
+      "Responsive design",
+      "Easy to implement",
+      "No response limits"
+    ],
+    "style_hint": "brutalist",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "digital product delivery via telegram",
+    "slug": "sell-files-via-telegram",
+    "title": "Automated Delivery: Sell Files and Send Them via Telegram Bot",
+    "problem_description": "Privacy-conscious sellers want to deliver products on encrypted platforms rather than email.",
+    "how_to_solve": "Generate a page that triggers a Telegram bot message with the file link upon payment.",
+    "use_cases": [
+      "Selling digital products with privacy",
+      "Delivering files via encrypted channels",
+      "Sending exclusive content to customers",
+      "Automating product delivery",
+      "Building a secure sales funnel"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Telegram account?",
+        "answer": "Yes, you'll need a Telegram account to create a bot and send messages."
+      },
+      {
+        "question": "Is this method secure?",
+        "answer": "Yes, Telegram uses end-to-end encryption for messages."
+      },
+      {
+        "question": "Can I deliver large files?",
+        "answer": "Telegram has file size limits, but you can send links to larger files hosted elsewhere."
+      },
+      {
+        "question": "How do I set up the Telegram bot?",
+        "answer": "OnePageSaaS provides instructions on how to create and configure a Telegram bot."
+      },
+      {
+        "question": "Can I use this alongside other delivery methods?",
+        "answer": "Yes, you can send files via Telegram and email simultaneously."
+      }
+    ],
+    "features_pool": [
+      "Automated delivery",
+      "Telegram bot integration",
+      "Encrypted file delivery",
+      "Secure transactions",
+      "Easy to set up",
+      "No monthly fees"
+    ],
+    "style_hint": "hacker",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "static site seo for single page",
+    "slug": "one-page-seo-tips",
+    "title": "How to Rank #1 on Google with a Single HTML File",
+    "problem_description": "People think they need a 50-page blog to rank on Google. They are wrong.",
+    "how_to_solve": "Inject JSON-LD, Meta Tags, and Schema.org data into the generated HTML for visibility.",
+    "use_cases": [
+      "Ranking for specific keywords",
+      "Improving visibility for a single product or service",
+      "Building an SEO-friendly landing page",
+      "Optimizing existing static sites",
+      "Creating content that ranks quickly"
+    ],
+    "faqs": [
+      {
+        "question": "Can a single HTML page really rank well on Google?",
+        "answer": "Yes, with proper SEO optimization, a single page can rank for specific keywords."
+      },
+      {
+        "question": "What is JSON-LD?",
+        "answer": "JSON-LD is a way to add structured data to your page to help search engines understand its content."
+      },
+      {
+        "question": "How important are meta tags?",
+        "answer": "Meta tags are still important for SEO, especially the title and description tags."
+      },
+      {
+        "question": "Can I add Schema.org data to my page?",
+        "answer": "Yes, OnePageSaaS can generate Schema.org data for your page."
+      },
+      {
+        "question": "How long does it take to rank?",
+        "answer": "It depends on the competition, but with proper optimization, you can start seeing results in a few weeks."
+      }
+    ],
+    "features_pool": [
+      "JSON-LD integration",
+      "Meta tag optimization",
+      "Schema.org data",
+      "SEO-friendly structure",
+      "Fast loading times",
+      "Mobile optimization"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "WebPage"
+  },
+  {
+    "keyword": "cloudflare workers form handling tutorial",
+    "slug": "cloudflare-workers-form-handler",
+    "title": "The Modern Backend: Handling Forms with Cloudflare Workers for Free",
+    "problem_description": "Users want to use the 'Edge' but documentation is too intimidating.",
+    "how_to_solve": "OnePageSaaS generates the worker code and provides a copy-paste UI for Cloudflare.",
+    "use_cases": [
+      "Handling form submissions without a server",
+      "Processing data at the edge",
+      "Storing form data in Cloudflare KV",
+      "Creating serverless backends",
+      "Building scalable form handling solutions"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Cloudflare account?",
+        "answer": "Yes, you'll need a Cloudflare account to use Cloudflare Workers."
+      },
+      {
+        "question": "Is Cloudflare Workers free?",
+        "answer": "Cloudflare Workers has a free tier that's sufficient for most small projects."
+      },
+      {
+        "question": "Can I store data with Cloudflare Workers?",
+        "answer": "Yes, you can use Cloudflare KV (Key-Value storage) to store data."
+      },
+      {
+        "question": "How difficult is it to set up?",
+        "answer": "OnePageSaaS generates the code for you, making it easy to set up."
+      },
+      {
+        "question": "Can I use Cloudflare Workers for other tasks?",
+        "answer": "Yes, Cloudflare Workers can be used for a variety of serverless tasks."
+      }
+    ],
+    "features_pool": [
+      "Serverless form handling",
+      "Edge computing",
+      "Cloudflare KV integration",
+      "Free tier available",
+      "Easy to implement",
+      "Scalable solution"
+    ],
+    "style_hint": "hacker",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "sell paid newsletter without substack fees",
+    "slug": "sell-newsletter-no-substack-fees",
+    "title": "Newsletter Sovereignty: How to Sell Subscriptions Directly",
+    "problem_description": "Substack's 10% cut is too high for established writers. They want a simple 'Pay to Join' page.",
+    "how_to_solve": "A landing page that connects Stripe Recurring to a private Telegram invite link.",
+    "use_cases": [
+      "Selling paid newsletters directly",
+      "Building a subscription-based content business",
+      "Creating exclusive communities for subscribers",
+      "Reducing platform fees",
+      "Building a direct relationship with readers"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Stripe account?",
+        "answer": "Yes, you'll need a Stripe account to process recurring payments."
+      },
+      {
+        "question": "Can I use this with email newsletters?",
+        "answer": "Yes, you can connect the payment system to your email marketing platform."
+      },
+      {
+        "question": "How do I deliver the newsletter?",
+        "answer": "You can deliver the newsletter via email, Telegram, or a private website."
+      },
+      {
+        "question": "Is this method secure?",
+        "answer": "Yes, payments are processed through Stripe, and access to content is controlled."
+      },
+      {
+        "question": "Can I offer different subscription tiers?",
+        "answer": "Yes, you can set up multiple subscription tiers with different benefits."
+      }
+    ],
+    "features_pool": [
+      "Stripe Recurring integration",
+      "Telegram invite link delivery",
+      "No platform fees",
+      "Customizable subscription tiers",
+      "Direct subscriber relationships",
+      "Easy to set up"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "minimalist saas landing page template",
+    "slug": "minimalist-saas-template",
+    "title": "SaaS Landing Pages Are Too Busy: Try This Hacker Aesthetic",
+    "problem_description": "Modern SaaS design is becoming repetitive. Users want a high-contrast, fast-loading alternative.",
+    "how_to_solve": "Brutalist CSS templates that stand out and load instantly.",
+    "use_cases": [
+      "Creating a unique SaaS landing page",
+      "Standing out from competitors",
+      "Building a fast-loading marketing page",
+      "Testing different design aesthetics",
+      "Creating a memorable brand impression"
+    ],
+    "faqs": [
+      {
+        "question": "What is a brutalist design?",
+        "answer": "Brutalist design features high contrast, bold typography, and raw, unpolished aesthetics."
+      },
+      {
+        "question": "Will this design style work for my SaaS?",
+        "answer": "Brutalist design works well for tech-focused SaaS products, especially those targeting developers or early adopters."
+      },
+      {
+        "question": "Can I customize the template?",
+        "answer": "Yes, you can modify the generated HTML and CSS to match your brand's style."
+      },
+      {
+        "question": "Is the template mobile-friendly?",
+        "answer": "Yes, the template is fully responsive and works on all devices."
+      },
+      {
+        "question": "How fast will the landing page load?",
+        "answer": "The brutalist design uses minimal CSS, resulting in very fast loading times."
+      }
+    ],
+    "features_pool": [
+      "Brutalist design aesthetic",
+      "Fast loading times",
+      "High contrast visuals",
+      "Bold typography",
+      "Responsive design",
+      "Easy to customize"
+    ],
+    "style_hint": "brutalist",
+    "schema_type": "WebPage"
+  },
+  {
+    "keyword": "how to stop saas data lock in",
+    "slug": "prevent-saas-data-lock-in",
+    "title": "Take Your Data Back: Why Your Business Logic Should Be in Your Own Repo",
+    "problem_description": "Fear of a SaaS platform going bust or raising prices overnight (SaaS Apocalypse).",
+    "how_to_solve": "Promote the 'Code is Product' model—your business logic is a portable HTML file.",
+    "use_cases": [
+      "Avoiding SaaS data lock-in",
+      "Protecting business logic from platform changes",
+      "Reducing dependency on third-party services",
+      "Ensuring business continuity",
+      "Maintaining control over critical systems"
+    ],
+    "faqs": [
+      {
+        "question": "What is SaaS data lock-in?",
+        "answer": "SaaS data lock-in occurs when a business becomes dependent on a SaaS platform and cannot easily switch to another provider."
+      },
+      {
+        "question": "How can I avoid data lock-in?",
+        "answer": "By keeping your business logic in portable formats like HTML files that you own and control."
+      },
+      {
+        "question": "Is this approach scalable?",
+        "answer": "Yes, for many business use cases, portable code can scale just as well as SaaS solutions."
+      },
+      {
+        "question": "What if I need more complex functionality?",
+        "answer": "You can still use SaaS tools for complex needs, but keep your core business logic portable."
+      },
+      {
+        "question": "How do I get started?",
+        "answer": "Identify the SaaS tools you're most dependent on and look for portable alternatives."
+      }
+    ],
+    "features_pool": [
+      "Portable business logic",
+      "No vendor lock-in",
+      "Full data ownership",
+      "Business continuity",
+      "Reduced dependency",
+      "Easy to migrate"
+    ],
+    "style_hint": "brutalist",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "collect anonymous feedback on website",
+    "slug": "anonymous-feedback-html-snippet",
+    "title": "Clean & Anonymous: The Simple Way to Collect User Feedback",
+    "problem_description": "Third-party feedback widgets are often ugly, heavy, and track user cookies.",
+    "how_to_solve": "A zero-cookie, zero-tracking HTML form that sends feedback to a private channel.",
+    "use_cases": [
+      "Collecting user feedback without tracking",
+      "Getting honest opinions from website visitors",
+      "Avoiding cookie consent requirements",
+      "Keeping feedback private and secure",
+      "Reducing website load time"
+    ],
+    "faqs": [
+      {
+        "question": "Is this really anonymous?",
+        "answer": "Yes, the form doesn't collect any identifying information or set cookies."
+      },
+      {
+        "question": "How do I receive the feedback?",
+        "answer": "The feedback is sent directly to your private channel, like Telegram or email."
+      },
+      {
+        "question": "Can I customize the feedback form?",
+        "answer": "Yes, you can modify the form fields and design to fit your needs."
+      },
+      {
+        "question": "Does this work on all devices?",
+        "answer": "Yes, the form is fully responsive and works on all devices."
+      },
+      {
+        "question": "Is there a limit to the number of feedback submissions?",
+        "answer": "No, there's no limit to how many feedback submissions you can receive."
+      }
+    ],
+    "features_pool": [
+      "Zero cookies",
+      "Zero tracking",
+      "Private feedback delivery",
+      "Lightweight implementation",
+      "Customizable form",
+      "No monthly fees"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "static html countdown timer with buy button",
+    "slug": "countdown-timer-buy-button",
+    "title": "Increase Scarcity: Adding a Countdown Timer to Your Sales Page",
+    "problem_description": "Marketing hacks like countdowns usually require expensive plugins.",
+    "how_to_solve": "Include a simple, client-side JS countdown that syncs with your product launch time.",
+    "use_cases": [
+      "Creating urgency for product launches",
+      "Running limited-time promotions",
+      "Increasing conversion rates",
+      "Building excitement for events",
+      "Selling limited-edition products"
+    ],
+    "faqs": [
+      {
+        "question": "Is the countdown timer accurate?",
+        "answer": "Yes, the timer syncs with the product launch time and is accurate across devices."
+      },
+      {
+        "question": "Can I customize the countdown design?",
+        "answer": "Yes, you can modify the CSS to match your brand's style."
+      },
+      {
+        "question": "What happens when the countdown ends?",
+        "answer": "You can configure the page to show a different message or redirect to another page."
+      },
+      {
+        "question": "Does this work on mobile devices?",
+        "answer": "Yes, the countdown timer is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I set multiple countdowns?",
+        "answer": "Yes, you can add multiple countdown timers to different sections of your page."
+      }
+    ],
+    "features_pool": [
+      "Client-side JS countdown",
+      "Accurate time syncing",
+      "Customizable design",
+      "Responsive implementation",
+      "Easy to integrate",
+      "No external dependencies"
+    ],
+    "style_hint": "brutalist",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "how to sell a single digital product online",
+    "slug": "sell-single-product-online",
+    "title": "The Lazy Way to Sell Online: One Product, One Page, One Link",
+    "problem_description": "First-time sellers are overwhelmed by the 'Setup Wizard' of 99% of platforms.",
+    "how_to_solve": "The 'One-Minute Business'—describe the product, add price, get HTML, go live.",
+    "use_cases": [
+      "Selling a single digital product",
+      "Testing a new product idea",
+      "Creating a simple sales funnel",
+      "Avoiding complex e-commerce platforms",
+      "Getting started with online sales quickly"
+    ],
+    "faqs": [
+      {
+        "question": "How long does it take to set up?",
+        "answer": "With OnePageSaaS, you can create a sales page in as little as one minute."
+      },
+      {
+        "question": "Do I need a payment processor?",
+        "answer": "Yes, you'll need a Stripe or PayPal account to process payments."
+      },
+      {
+        "question": "Can I customize the sales page?",
+        "answer": "Yes, you can modify the generated HTML and CSS to match your brand's style."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "How do I deliver the product?",
+        "answer": "You can set up automatic delivery via email or Telegram after payment."
+      }
+    ],
+    "features_pool": [
+      "One-minute setup",
+      "Simple sales process",
+      "No complex platforms",
+      "Fast time to market",
+      "Customizable design",
+      "Easy to update"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Product"
+  },
+  {
+    "keyword": "stripe checkout without a database",
+    "slug": "stripe-no-db",
+    "title": "Processing Payments with Stripe and Zero Database Management",
+    "problem_description": "Users want to collect money but don't want to manage user tables or SQL.",
+    "how_to_solve": "Use Stripe's hosted checkout session and receive confirmation via Telegram.",
+    "use_cases": [
+      "Processing payments without a database",
+      "Simplifying payment infrastructure",
+      "Reducing development complexity",
+      "Getting started with payments quickly",
+      "Avoiding database maintenance"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Stripe account?",
+        "answer": "Yes, you'll need a Stripe account to process payments."
+      },
+      {
+        "question": "How do I receive payment notifications?",
+        "answer": "You can receive notifications via Telegram or email."
+      },
+      {
+        "question": "Is this method secure?",
+        "answer": "Yes, Stripe's hosted checkout is PCI compliant and secure."
+      },
+      {
+        "question": "Can I use this for recurring payments?",
+        "answer": "Yes, you can set up recurring payments with Stripe."
+      },
+      {
+        "question": "How do I handle refunds?",
+        "answer": "You can process refunds directly through your Stripe dashboard."
+      }
+    ],
+    "features_pool": [
+      "No database required",
+      "Stripe hosted checkout",
+      "Telegram notifications",
+      "Secure payment processing",
+      "Easy to set up",
+      "No maintenance"
+    ],
+    "style_hint": "hacker",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "simple website for selling lightroom presets",
+    "slug": "sell-lightroom-presets-simply",
+    "title": "The Best Way to Sell Lightroom Presets Without Shopify",
+    "problem_description": "Photographers want a clean gallery and a buy button, not a complex store.",
+    "how_to_solve": "A minimalist gallery template with integrated Stripe payment buttons.",
+    "use_cases": [
+      "Selling Lightroom presets directly to customers",
+      "Creating a clean portfolio for photography work",
+      "Avoiding complex e-commerce platforms",
+      "Showcasing preset examples",
+      "Building a brand as a photographer"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Stripe account?",
+        "answer": "Yes, you'll need a Stripe account to process payments."
+      },
+      {
+        "question": "Can I showcase multiple presets?",
+        "answer": "Yes, you can create a gallery with multiple presets and separate payment options."
+      },
+      {
+        "question": "How do I deliver the presets?",
+        "answer": "You can set up automatic delivery via email after payment."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I customize the gallery design?",
+        "answer": "Yes, you can modify the generated HTML and CSS to match your brand's style."
+      }
+    ],
+    "features_pool": [
+      "Minimalist gallery template",
+      "Stripe payment integration",
+      "Responsive design",
+      "Easy to update",
+      "No platform fees",
+      "Fast loading times"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Product"
+  },
+  {
+    "keyword": "collect bug reports via discord webhook",
+    "slug": "bug-reports-to-discord",
+    "title": "Developer Workflow: Send Bug Reports Directly to Discord",
+    "problem_description": "Indie hackers need a free way to get bug reports from users without a ticketing system.",
+    "how_to_solve": "A small HTML form that POSTs JSON data to a Discord Webhook URL.",
+    "use_cases": [
+      "Collecting bug reports from users",
+      "Streamlining developer workflow",
+      "Avoiding complex ticketing systems",
+      "Getting real-time notifications",
+      "Collaborating with team members"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Discord account?",
+        "answer": "Yes, you'll need a Discord account to create a webhook."
+      },
+      {
+        "question": "How do I create a Discord webhook?",
+        "answer": "You can create a webhook in your Discord server settings."
+      },
+      {
+        "question": "Can I customize the bug report form?",
+        "answer": "Yes, you can modify the form fields to collect the information you need."
+      },
+      {
+        "question": "Is this method secure?",
+        "answer": "Yes, the form data is sent directly to your Discord webhook."
+      },
+      {
+        "question": "Can I use this for other types of feedback?",
+        "answer": "Yes, you can use the same method for feature requests or general feedback."
+      }
+    ],
+    "features_pool": [
+      "Discord webhook integration",
+      "Real-time notifications",
+      "Customizable form fields",
+      "No ticketing system required",
+      "Easy to implement",
+      "Free to use"
+    ],
+    "style_hint": "hacker",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "zero cost saas stack 2026",
+    "slug": "zero-cost-saas-stack",
+    "title": "How to Run a Profitable SaaS for $0/Month in 2026",
+    "problem_description": "Tech inflation is making solo-founding expensive. Developers are looking for free-tier stacks.",
+    "how_to_solve": "Combine OnePageSaaS + GitHub Pages + Cloudflare Workers + Stripe.",
+    "use_cases": [
+      "Starting a SaaS business with zero upfront costs",
+      "Reducing operational expenses",
+      "Building a sustainable business model",
+      "Testing new business ideas",
+      "Scaling with minimal costs"
+    ],
+    "faqs": [
+      {
+        "question": "Is it really possible to run a SaaS for $0/month?",
+        "answer": "Yes, by using free-tier services like GitHub Pages, Cloudflare Workers, and Stripe."
+      },
+      {
+        "question": "What are the limitations of the free tier?",
+        "answer": "The free tier has usage limits, but it's sufficient for most small businesses and startups."
+      },
+      {
+        "question": "How do I handle scaling?",
+        "answer": "As your business grows, you can upgrade to paid tiers of these services."
+      },
+      {
+        "question": "Can I use this stack for any type of SaaS?",
+        "answer": "This stack works well for many types of SaaS, especially those with static frontends."
+      },
+      {
+        "question": "How do I get started?",
+        "answer": "Start by creating a product with OnePageSaaS, host it on GitHub Pages, and add Cloudflare Workers for backend functionality."
+      }
+    ],
+    "features_pool": [
+      "Zero monthly costs",
+      "GitHub Pages hosting",
+      "Cloudflare Workers backend",
+      "Stripe payment integration",
+      "Scalable architecture",
+      "Easy to set up"
+    ],
+    "style_hint": "brutalist",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "website for wedding RSVP without ads",
+    "slug": "wedding-rsvp-no-ads",
+    "title": "Private Wedding RSVPs: Create a Beautiful Ad-Free Response Page",
+    "problem_description": "Free wedding site builders are filled with ads and tracking. Paid ones are too expensive.",
+    "how_to_solve": "Export a private, elegant RSVP page that sends guest names to your phone.",
+    "use_cases": [
+      "Collecting wedding RSVPs",
+      "Sharing wedding details with guests",
+      "Avoiding ads and tracking",
+      "Creating a personalized wedding page",
+      "Sending real-time notifications"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize the RSVP form?",
+        "answer": "Yes, you can modify the form fields to collect the information you need."
+      },
+      {
+        "question": "How do I receive RSVP notifications?",
+        "answer": "You can receive notifications via email or Telegram."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I add wedding details to the page?",
+        "answer": "Yes, you can add information about the venue, time, and other details."
+      },
+      {
+        "question": "How do I share the page with guests?",
+        "answer": "You can share the URL with your guests via email or invitation."
+      }
+    ],
+    "features_pool": [
+      "Ad-free design",
+      "Elegant RSVP form",
+      "Real-time notifications",
+      "Customizable content",
+      "Responsive design",
+      "Easy to set up"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "WebPage"
+  },
+  {
+    "keyword": "sell python scripts online simply",
+    "slug": "sell-scripts-simply",
+    "title": "Automation Marketplace: How to Sell Your Python Scripts",
+    "problem_description": "Coders want to sell small scripts without the friction of a large marketplace.",
+    "how_to_solve": "A 'Code Snippet' landing page with instant download after Stripe payment.",
+    "use_cases": [
+      "Selling Python scripts online",
+      "Creating a marketplace for automation tools",
+      "Monetizing coding skills",
+      "Reaching a wider audience",
+      "Building a brand as a developer"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Stripe account?",
+        "answer": "Yes, you'll need a Stripe account to process payments."
+      },
+      {
+        "question": "How do I deliver the scripts?",
+        "answer": "You can set up automatic delivery via email after payment."
+      },
+      {
+        "question": "Can I sell multiple scripts?",
+        "answer": "Yes, you can create a page with multiple scripts and separate payment options."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I include documentation with my scripts?",
+        "answer": "Yes, you can add documentation to your landing page."
+      }
+    ],
+    "features_pool": [
+      "Code snippet landing page",
+      "Instant download after payment",
+      "Stripe integration",
+      "Customizable design",
+      "No marketplace fees",
+      "Easy to update"
+    ],
+    "style_hint": "hacker",
+    "schema_type": "Product"
+  },
+  {
+    "keyword": "minimalist agency landing page",
+    "slug": "minimalist-agency-page",
+    "title": "High-Ticket Minimalist: The Simple Agency Page That Converts",
+    "problem_description": "Service agencies often over-design their sites, hurting load times and clarity.",
+    "how_to_solve": "A typography-focused HTML page with a direct 'Book a Discovery Call' button.",
+    "use_cases": [
+      "Creating a landing page for a service agency",
+      "Generating high-ticket leads",
+      "Showcasing agency services",
+      "Booking discovery calls",
+      "Building a professional brand"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize the page to match my brand?",
+        "answer": "Yes, you can modify the generated HTML and CSS to match your brand's style."
+      },
+      {
+        "question": "How do I set up the 'Book a Discovery Call' button?",
+        "answer": "You can link the button to your calendar scheduling tool like Calendly or Google Calendar."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I add client testimonials?",
+        "answer": "Yes, you can add client testimonials to build trust."
+      },
+      {
+        "question": "How fast will the page load?",
+        "answer": "The minimalist design ensures fast loading times."
+      }
+    ],
+    "features_pool": [
+      "Typography-focused design",
+      "Direct booking button",
+      "Responsive layout",
+      "Fast loading times",
+      "Customizable branding",
+      "Easy to update"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "WebPage"
+  },
+  {
+    "keyword": "how to add a tipping jar to your website",
+    "slug": "add-tipping-jar-to-site",
+    "title": "Beyond 'Buy Me a Coffee': Create Your Own Custom Tipping Jar",
+    "problem_description": "Platforms like BMC take a cut. Users want a direct-to-Stripe tipping solution.",
+    "how_to_solve": "Generate a 'Tip Me' widget that you can embed anywhere with 0% platform fees.",
+    "use_cases": [
+      "Accepting tips on a website",
+      "Monetizing content without ads",
+      "Building a direct relationship with supporters",
+      "Avoiding platform fees",
+      "Creating a custom tipping experience"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Stripe account?",
+        "answer": "Yes, you'll need a Stripe account to process payments."
+      },
+      {
+        "question": "Can I customize the tipping widget?",
+        "answer": "Yes, you can modify the widget's design and text to match your brand."
+      },
+      {
+        "question": "Is there a fee for using this?",
+        "answer": "No, there are no platform fees, only Stripe's standard transaction fees."
+      },
+      {
+        "question": "Can I embed the widget on any website?",
+        "answer": "Yes, you can embed the widget on any website that allows HTML."
+      },
+      {
+        "question": "How do I receive the tips?",
+        "answer": "Tips are deposited directly into your Stripe account."
+      }
+    ],
+    "features_pool": [
+      "Custom tipping widget",
+      "Direct Stripe integration",
+      "0% platform fees",
+      "Customizable design",
+      "Easy to embed",
+      "Responsive implementation"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "landing page for local service business",
+    "slug": "local-service-landing-page",
+    "title": "Get More Local Leads: The Simple 1-Page Site for Plumbers and Electricians",
+    "problem_description": "Local businesses don't need a blog; they need a phone number and a quote form.",
+    "how_to_solve": "A mobile-optimized landing page with a 'Click to Call' and 'Request Quote' form.",
+    "use_cases": [
+      "Generating leads for local service businesses",
+      "Providing contact information to customers",
+      "Collecting quote requests",
+      "Building a local online presence",
+      "Improving customer conversion"
+    ],
+    "faqs": [
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is optimized for mobile devices."
+      },
+      {
+        "question": "Can I add my business information?",
+        "answer": "Yes, you can add your business name, phone number, address, and services."
+      },
+      {
+        "question": "How do I receive quote requests?",
+        "answer": "You can receive quote requests via email or Telegram."
+      },
+      {
+        "question": "Can I add customer reviews?",
+        "answer": "Yes, you can add customer reviews to build trust."
+      },
+      {
+        "question": "How fast will the page load?",
+        "answer": "The page is optimized for fast loading times."
+      }
+    ],
+    "features_pool": [
+      "Mobile-optimized design",
+      "Click to Call button",
+      "Request Quote form",
+      "Local SEO optimization",
+      "Fast loading times",
+      "Easy to update"
+    ],
+    "style_hint": "brutalist",
+    "schema_type": "WebPage"
+  },
+  {
+    "keyword": "how to host a html form for free",
+    "slug": "free-html-form-hosting",
+    "title": "Form Hosting for Free: No PHP, No Servers, No Problem",
+    "problem_description": "Beginners struggle with the 'action' attribute of HTML forms.",
+    "how_to_solve": "OnePageSaaS provides the frontend and a serverless worker to handle the 'action'.",
+    "use_cases": [
+      "Hosting HTML forms for free",
+      "Collecting form submissions without a server",
+      "Simplifying form implementation",
+      "Testing form functionality",
+      "Building contact forms"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need any technical skills?",
+        "answer": "No, OnePageSaaS generates the code for you."
+      },
+      {
+        "question": "How do I receive form submissions?",
+        "answer": "You can receive submissions via email, Telegram, or Google Sheets."
+      },
+      {
+        "question": "Is there a limit to the number of submissions?",
+        "answer": "The limit depends on your Cloudflare Worker plan, but the free tier should be sufficient for most small projects."
+      },
+      {
+        "question": "Can I customize the form?",
+        "answer": "Yes, you can modify the form fields and design."
+      },
+      {
+        "question": "How do I embed the form on my website?",
+        "answer": "You can copy and paste the generated HTML code into your website."
+      }
+    ],
+    "features_pool": [
+      "Free form hosting",
+      "Serverless backend",
+      "Multiple submission destinations",
+      "Customizable forms",
+      "Easy to implement",
+      "No PHP required"
+    ],
+    "style_hint": "hacker",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "sell digital art without nft platforms",
+    "slug": "sell-art-no-nft",
+    "title": "Sell Your Digital Art Directly to Fans Without Crypto or NFTs",
+    "problem_description": "Artists want to sell JPGs/PNGs without the complexity or stigma of NFT marketplaces.",
+    "how_to_solve": "A clean art portfolio with a 'Buy High-Res' button that delivers files via email.",
+    "use_cases": [
+      "Selling digital art directly to fans",
+      "Creating an art portfolio",
+      "Avoiding NFT marketplaces",
+      "Delivering high-resolution files",
+      "Building a direct relationship with collectors"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Stripe account?",
+        "answer": "Yes, you'll need a Stripe account to process payments."
+      },
+      {
+        "question": "How do I deliver the high-resolution files?",
+        "answer": "You can set up automatic delivery via email after payment."
+      },
+      {
+        "question": "Can I showcase multiple artworks?",
+        "answer": "Yes, you can create a gallery with multiple artworks and separate payment options."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I add information about my art?",
+        "answer": "Yes, you can add descriptions and details about each artwork."
+      }
+    ],
+    "features_pool": [
+      "Clean art portfolio",
+      "Buy High-Res button",
+      "Email delivery",
+      "Stripe integration",
+      "Responsive design",
+      "Easy to update"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Product"
+  },
+  {
+    "keyword": "how to create a member-only area for free",
+    "slug": "free-member-area",
+    "title": "The Poor Man’s Membership Site: Member-Only Content for $0",
+    "problem_description": "Paying for Memberstack or Patreon feels like too much for a small community.",
+    "how_to_solve": "A password-protected static page that you share with paying customers manually.",
+    "use_cases": [
+      "Creating a member-only area",
+      "Sharing exclusive content",
+      "Building a community",
+      "Avoiding membership platform fees",
+      "Testing membership ideas"
+    ],
+    "faqs": [
+      {
+        "question": "Is this method secure?",
+        "answer": "While it's not as secure as a dedicated membership platform, it provides a good level of protection for small communities."
+      },
+      {
+        "question": "How do I set up the password protection?",
+        "answer": "OnePageSaaS generates a password-protected HTML page for you."
+      },
+      {
+        "question": "Can I change the password later?",
+        "answer": "Yes, you can update the password in the HTML code."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I add multiple password levels?",
+        "answer": "Yes, you can create different pages with different passwords for different membership levels."
+      }
+    ],
+    "features_pool": [
+      "Password-protected content",
+      "No membership platform fees",
+      "Easy to set up",
+      "Customizable access",
+      "Direct control over members",
+      "Free to use"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "WebPage"
+  },
+  {
+    "keyword": "receive file uploads from website to telegram",
+    "slug": "file-upload-to-telegram",
+    "title": "Instant Uploads: Let Users Send You Files Directly via Your Website",
+    "problem_description": "Collecting resumes or design briefs usually requires a cloud storage setup.",
+    "how_to_solve": "Bridge the HTML file input to Telegram's 'sendDocument' API for instant delivery.",
+    "use_cases": [
+      "Collecting resumes from job applicants",
+      "Receiving design briefs from clients",
+      "Getting files from users without email attachments",
+      "Streamlining file collection",
+      "Reducing cloud storage costs"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Telegram account?",
+        "answer": "Yes, you'll need a Telegram account to receive files."
+      },
+      {
+        "question": "What file types can be uploaded?",
+        "answer": "You can accept any file type, but Telegram has file size limits."
+      },
+      {
+        "question": "Is this method secure?",
+        "answer": "Yes, files are sent directly to your Telegram chat, which is end-to-end encrypted."
+      },
+      {
+        "question": "Can I customize the upload form?",
+        "answer": "Yes, you can modify the form fields and design."
+      },
+      {
+        "question": "How do I set up the Telegram bot?",
+        "answer": "OnePageSaaS provides instructions on how to create and configure a Telegram bot."
+      }
+    ],
+    "features_pool": [
+      "File upload functionality",
+      "Telegram integration",
+      "Instant delivery",
+      "Customizable form",
+      "No cloud storage required",
+      "Easy to implement"
+    ],
+    "style_hint": "hacker",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "one page sales funnel for consultants",
+    "slug": "consultant-sales-funnel",
+    "title": "The Consultant's Secret: A 1-Page Funnel That Actually Works",
+    "problem_description": "Consultants get lost in complex funnel builders like ClickFunnels.",
+    "how_to_solve": "A high-clarity landing page designed to sell a single 'Strategy Session'.",
+    "use_cases": [
+      "Selling consulting services",
+      "Booking strategy sessions",
+      "Generating high-quality leads",
+      "Avoiding complex funnel builders",
+      "Streamlining the sales process"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize the landing page?",
+        "answer": "Yes, you can modify the generated HTML and CSS to match your brand's style."
+      },
+      {
+        "question": "How do I book strategy sessions?",
+        "answer": "You can link the page to your calendar scheduling tool like Calendly."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I add testimonials?",
+        "answer": "Yes, you can add client testimonials to build trust."
+      },
+      {
+        "question": "How fast will the page load?",
+        "answer": "The page is optimized for fast loading times."
+      }
+    ],
+    "features_pool": [
+      "High-clarity design",
+      "Strategy session booking",
+      "Responsive layout",
+      "Fast loading times",
+      "Customizable branding",
+      "Easy to update"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "alternative to convertkit for simple signups",
+    "slug": "convertkit-alternative-simple",
+    "title": "Why You Don't Need ConvertKit to Start an Email List",
+    "problem_description": "Paying for an ESP before you have 100 subscribers is a waste of money.",
+    "how_to_solve": "Use OnePageSaaS to collect emails to a CSV file or Google Sheet for free.",
+    "use_cases": [
+      "Building an email list without paying for an ESP",
+      "Collecting email signups",
+      "Testing email marketing",
+      "Avoiding monthly fees",
+      "Simplifying email collection"
+    ],
+    "faqs": [
+      {
+        "question": "How do I collect emails?",
+        "answer": "You can create a signup form that sends emails to a CSV file or Google Sheet."
+      },
+      {
+        "question": "Is there a limit to the number of subscribers?",
+        "answer": "No, there's no limit to the number of subscribers you can collect."
+      },
+      {
+        "question": "Can I import these emails into an ESP later?",
+        "answer": "Yes, you can import the CSV file into any email marketing platform."
+      },
+      {
+        "question": "Can I customize the signup form?",
+        "answer": "Yes, you can modify the form fields and design."
+      },
+      {
+        "question": "Is this method secure?",
+        "answer": "Yes, the form data is sent directly to your chosen storage solution."
+      }
+    ],
+    "features_pool": [
+      "Free email collection",
+      "CSV or Google Sheets storage",
+      "Customizable signup form",
+      "No monthly fees",
+      "Easy to implement",
+      "Scalable solution"
+    ],
+    "style_hint": "brutalist",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "how to hide my source code from competitors",
+    "slug": "obfuscate-html-logic",
+    "title": "Protect Your Work: Obfuscating HTML and JS for Static Sites",
+    "problem_description": "Users want to prevent simple 'View Source' copy-pasting of their logic.",
+    "how_to_solve": "Add a one-click 'Obfuscate' feature to the generator to scramble the code.",
+    "use_cases": [
+      "Protecting source code from competitors",
+      "Preventing copy-pasting of logic",
+      "Securing sensitive information",
+      "Maintaining competitive advantage",
+      "Protecting intellectual property"
+    ],
+    "faqs": [
+      {
+        "question": "Is obfuscation 100% secure?",
+        "answer": "While obfuscation makes it harder to understand code, it's not 100% secure. It's a deterrent, not a complete solution."
+      },
+      {
+        "question": "Will obfuscation affect performance?",
+        "answer": "Minimal impact, as the obfuscated code is still optimized for performance."
+      },
+      {
+        "question": "Can I obfuscate existing code?",
+        "answer": "Yes, you can use the obfuscate feature on any generated code."
+      },
+      {
+        "question": "Is obfuscation SEO-friendly?",
+        "answer": "Yes, search engines can still crawl the content of your page."
+      },
+      {
+        "question": "How easy is it to use the obfuscate feature?",
+        "answer": "It's a one-click feature that automatically scrambles your code."
+      }
+    ],
+    "features_pool": [
+      "One-click obfuscation",
+      "Code scrambling",
+      "Performance optimization",
+      "SEO-friendly",
+      "Easy to use",
+      "Effective deterrent"
+    ],
+    "style_hint": "hacker",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "minimalist coming soon page with countdown",
+    "slug": "minimalist-coming-soon",
+    "title": "Build Hype: The Minimalist 'Coming Soon' Page That Converts",
+    "problem_description": "Standard coming soon pages are clunky and don't load fast enough on social media.",
+    "how_to_solve": "A lightning-fast page with a countdown and an email field.",
+    "use_cases": [
+      "Building hype for a new product",
+      "Collecting email signups",
+      "Creating anticipation for a launch",
+      "Testing market interest",
+      "Building a pre-launch community"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize the countdown timer?",
+        "answer": "Yes, you can set the target date and time for the countdown."
+      },
+      {
+        "question": "How do I collect email signups?",
+        "answer": "You can link the email field to your email marketing platform or Google Sheets."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "How fast will the page load?",
+        "answer": "The page is optimized for lightning-fast loading times."
+      },
+      {
+        "question": "Can I add social media links?",
+        "answer": "Yes, you can add links to your social media profiles."
+      }
+    ],
+    "features_pool": [
+      "Countdown timer",
+      "Email signup form",
+      "Lightning-fast loading",
+      "Responsive design",
+      "Customizable branding",
+      "Social media integration"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "WebPage"
+  },
+  {
+    "keyword": "sell workshop tickets without eventbrite fees",
+    "slug": "sell-tickets-no-eventbrite",
+    "title": "Stop Giving Eventbrite 10%: Sell Your Own Workshop Tickets",
+    "problem_description": "Small workshop hosts lose a large chunk of revenue to ticketing platforms.",
+    "how_to_solve": "Generate a ticket sales page that sends guest names to Telegram after Stripe payment.",
+    "use_cases": [
+      "Selling workshop tickets without platform fees",
+      "Reducing event costs",
+      "Streamlining ticket sales",
+      "Getting real-time notifications",
+      "Building a direct relationship with attendees"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Stripe account?",
+        "answer": "Yes, you'll need a Stripe account to process payments."
+      },
+      {
+        "question": "How do I receive ticket sales notifications?",
+        "answer": "You can receive notifications via Telegram."
+      },
+      {
+        "question": "Can I customize the ticket sales page?",
+        "answer": "Yes, you can modify the page to match your event's branding."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "How do I check who has bought tickets?",
+        "answer": "You can keep track of ticket sales through your Stripe dashboard and Telegram notifications."
+      }
+    ],
+    "features_pool": [
+      "No platform fees",
+      "Stripe integration",
+      "Telegram notifications",
+      "Customizable design",
+      "Responsive layout",
+      "Easy to set up"
+    ],
+    "style_hint": "brutalist",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "how to use cloudflare kv as a database",
+    "slug": "cloudflare-kv-as-db",
+    "title": "Database at the Edge: Using Cloudflare KV with Your Static Site",
+    "problem_description": "Developers want a global database without the cost of AWS or Google Cloud.",
+    "how_to_solve": "OnePageSaaS generates the worker script to read/write to KV from your HTML.",
+    "use_cases": [
+      "Using Cloudflare KV as a database",
+      "Building global applications",
+      "Reducing database costs",
+      "Improving performance",
+      "Simplifying backend infrastructure"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Cloudflare account?",
+        "answer": "Yes, you'll need a Cloudflare account to use Cloudflare KV."
+      },
+      {
+        "question": "What are the limitations of Cloudflare KV?",
+        "answer": "Cloudflare KV has some limitations on key size and value size, but it's suitable for many use cases."
+      },
+      {
+        "question": "Can I use Cloudflare KV with any static site?",
+        "answer": "Yes, you can use Cloudflare KV with any static site hosted on Cloudflare."
+      },
+      {
+        "question": "How fast is Cloudflare KV?",
+        "answer": "Cloudflare KV is edge-optimized, so it's very fast for global applications."
+      },
+      {
+        "question": "How do I get started?",
+        "answer": "OnePageSaaS generates the worker script and HTML code you need to use Cloudflare KV."
+      }
+    ],
+    "features_pool": [
+      "Cloudflare KV integration",
+      "Edge-optimized performance",
+      "Global database",
+      "Reduced costs",
+      "Simplified infrastructure",
+      "Easy to implement"
+    ],
+    "style_hint": "hacker",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "simple website for small bakery",
+    "slug": "bakery-simple-site",
+    "title": "From Oven to Online: A Simple Order Page for Local Bakeries",
+    "problem_description": "Local shops need a menu and an order form, not a complex e-commerce suite.",
+    "how_to_solve": "A photo-heavy menu page with a Telegram-linked order form.",
+    "use_cases": [
+      "Creating a simple website for a bakery",
+      "Showcasing bakery products",
+      "Accepting online orders",
+      "Building a local online presence",
+      "Improving customer convenience"
+    ],
+    "faqs": [
+      {
+        "question": "Can I add photos of my bakery products?",
+        "answer": "Yes, you can add high-quality photos of your bakery items."
+      },
+      {
+        "question": "How do I receive orders?",
+        "answer": "Orders can be sent directly to your Telegram chat."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I update the menu easily?",
+        "answer": "Yes, you can modify the generated HTML to update your menu."
+      },
+      {
+        "question": "How fast will the page load?",
+        "answer": "The page is optimized for fast loading times, even with photos."
+      }
+    ],
+    "features_pool": [
+      "Photo-heavy menu",
+      "Telegram-linked order form",
+      "Responsive design",
+      "Fast loading times",
+      "Easy to update",
+      "Local SEO optimization"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "WebPage"
+  },
+  {
+    "keyword": "sell customized excels online",
+    "slug": "sell-excel-templates",
+    "title": "Excel Hustle: How to Sell Your Specialized Spreadsheets",
+    "problem_description": "Finance pros want to sell templates but don't want to build a whole site.",
+    "how_to_solve": "A landing page that delivers a ZIP file containing the Excel sheet after payment.",
+    "use_cases": [
+      "Selling Excel templates online",
+      "Monetizing financial expertise",
+      "Reaching a wider audience",
+      "Building a passive income stream",
+      "Providing value to clients"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Stripe account?",
+        "answer": "Yes, you'll need a Stripe account to process payments."
+      },
+      {
+        "question": "How do I deliver the Excel templates?",
+        "answer": "Templates are delivered as a ZIP file via email after payment."
+      },
+      {
+        "question": "Can I sell multiple templates?",
+        "answer": "Yes, you can create a page with multiple templates and separate payment options."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I include documentation with my templates?",
+        "answer": "Yes, you can add documentation to your landing page."
+      }
+    ],
+    "features_pool": [
+      "Excel template delivery",
+      "Stripe integration",
+      "ZIP file delivery",
+      "Customizable landing page",
+      "No platform fees",
+      "Easy to set up"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Product"
+  },
+  {
+    "keyword": "lightweight portfolio for photographers",
+    "slug": "photographer-lightweight-portfolio",
+    "title": "Showcase Your Lens: The Zero-Bloat Photography Portfolio",
+    "problem_description": "Squarespace is too expensive and slow for just showing 10 photos.",
+    "how_to_solve": "A fast-loading masonry grid HTML page with zero framework bloat.",
+    "use_cases": [
+      "Creating a photography portfolio",
+      "Showcasing photography work",
+      "Building a professional online presence",
+      "Attracting clients",
+      "Sharing work with potential employers"
+    ],
+    "faqs": [
+      {
+        "question": "Can I add multiple photos to my portfolio?",
+        "answer": "Yes, you can add as many photos as you want to your portfolio."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "How fast will the page load?",
+        "answer": "The page is optimized for fast loading times, even with multiple photos."
+      },
+      {
+        "question": "Can I customize the portfolio design?",
+        "answer": "Yes, you can modify the generated HTML and CSS to match your style."
+      },
+      {
+        "question": "Do I need any technical skills?",
+        "answer": "No, OnePageSaaS generates the code for you."
+      }
+    ],
+    "features_pool": [
+      "Fast-loading masonry grid",
+      "Zero framework bloat",
+      "Responsive design",
+      "Customizable layout",
+      "Easy to update",
+      "Professional appearance"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "WebPage"
+  },
+  {
+    "keyword": "how to add a dark mode toggle to static site",
+    "slug": "dark-mode-static-site",
+    "title": "Dark Mode in One Click: Modernizing Your Static HTML Business",
+    "problem_description": "Static sites often look 'old' without modern features like dark mode.",
+    "how_to_solve": "The generator includes a lightweight CSS/JS toggle for dark/light themes.",
+    "use_cases": [
+      "Adding dark mode to a static site",
+      "Modernizing website design",
+      "Improving user experience",
+      "Reducing eye strain",
+      "Matching user preferences"
+    ],
+    "faqs": [
+      {
+        "question": "Is the dark mode toggle easy to implement?",
+        "answer": "Yes, OnePageSaaS generates the code for you."
+      },
+      {
+        "question": "Will dark mode affect performance?",
+        "answer": "No, the toggle is lightweight and won't affect page load times."
+      },
+      {
+        "question": "Can I customize the dark mode colors?",
+        "answer": "Yes, you can modify the CSS to match your brand's colors."
+      },
+      {
+        "question": "Is dark mode SEO-friendly?",
+        "answer": "Yes, search engines can still crawl your content."
+      },
+      {
+        "question": "Will dark mode work on all devices?",
+        "answer": "Yes, the toggle is responsive and works on all devices."
+      }
+    ],
+    "features_pool": [
+      "Lightweight CSS/JS toggle",
+      "Dark/light theme support",
+      "Responsive design",
+      "Customizable colors",
+      "Performance optimized",
+      "Easy to implement"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "sell digital planners on personal website",
+    "slug": "sell-digital-planners",
+    "title": "The Digital Planner Business: Selling PDFs on Your Own Terms",
+    "problem_description": "Etsy takes too many fees; sellers want to keep all the profit from their PDF planners.",
+    "how_to_solve": "A high-conversion landing page with Stripe and instant digital delivery.",
+    "use_cases": [
+      "Selling digital planners on a personal website",
+      "Avoiding platform fees",
+      "Keeping all profits",
+      "Building a brand",
+      "Reaching a wider audience"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Stripe account?",
+        "answer": "Yes, you'll need a Stripe account to process payments."
+      },
+      {
+        "question": "How do I deliver the digital planners?",
+        "answer": "Planners are delivered as PDF files via email after payment."
+      },
+      {
+        "question": "Can I sell multiple planners?",
+        "answer": "Yes, you can create a page with multiple planners and separate payment options."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I customize the landing page?",
+        "answer": "Yes, you can modify the page to match your brand's style."
+      }
+    ],
+    "features_pool": [
+      "High-conversion landing page",
+      "Stripe integration",
+      "Instant digital delivery",
+      "Customizable design",
+      "No platform fees",
+      "Easy to set up"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Product"
+  },
+  {
+    "keyword": "create a quiz that sends results to email",
+    "slug": "quiz-to-email",
+    "title": "Lead Magnet Quizzes: Building a Static Quiz with Email Results",
+    "problem_description": "Quiz builders like Riddle or Typeform are too expensive for small creators.",
+    "how_to_solve": "Generate a JS-based quiz that sends the final score/result to the user's email.",
+    "use_cases": [
+      "Creating lead magnet quizzes",
+      "Collecting email addresses",
+      "Engaging website visitors",
+      "Generating leads",
+      "Providing value to users"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need any technical skills?",
+        "answer": "No, OnePageSaaS generates the code for you."
+      },
+      {
+        "question": "How do I receive the quiz results?",
+        "answer": "Results are sent to the user's email and can also be stored in a spreadsheet."
+      },
+      {
+        "question": "Can I customize the quiz questions?",
+        "answer": "Yes, you can modify the quiz questions and answers."
+      },
+      {
+        "question": "Is the quiz mobile-friendly?",
+        "answer": "Yes, the quiz is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I add branding to the quiz?",
+        "answer": "Yes, you can customize the quiz to match your brand's style."
+      }
+    ],
+    "features_pool": [
+      "JS-based quiz functionality",
+      "Email results delivery",
+      "Customizable questions",
+      "Responsive design",
+      "Lead generation",
+      "Easy to implement"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "bypass shopify for single product store",
+    "slug": "bypass-shopify",
+    "title": "Don't Pay $39/mo for One Product: The Shopify Alternative",
+    "problem_description": "Selling one physical product doesn't justify a full Shopify store subscription.",
+    "how_to_solve": "A single sales page with a multi-step form to collect shipping and payment via Stripe.",
+    "use_cases": [
+      "Selling a single product without Shopify",
+      "Avoiding monthly fees",
+      "Creating a simple online store",
+      "Reducing operational costs",
+      "Testing product ideas"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Stripe account?",
+        "answer": "Yes, you'll need a Stripe account to process payments."
+      },
+      {
+        "question": "Can I add product photos?",
+        "answer": "Yes, you can add high-quality photos of your product."
+      },
+      {
+        "question": "Is the store mobile-friendly?",
+        "answer": "Yes, the store is fully responsive and works on all devices."
+      },
+      {
+        "question": "How do I receive orders?",
+        "answer": "You can receive order notifications via email or Telegram."
+      },
+      {
+        "question": "Can I customize the store design?",
+        "answer": "Yes, you can modify the generated HTML and CSS to match your brand's style."
+      }
+    ],
+    "features_pool": [
+      "One-page store",
+      "Stripe integration",
+      "No monthly fees",
+      "Product photo support",
+      "Responsive design",
+      "Easy to set up"
+    ],
+    "style_hint": "brutalist",
+    "schema_type": "Product"
+  },
+  {
+    "keyword": "accept crypto payments on a static page",
+    "slug": "accept-crypto-static",
+    "title": "Crypto Made Easy: Accept ETH and BTC on Your HTML Site",
+    "problem_description": "Users find crypto gateways too hard to integrate into a simple site.",
+    "how_to_solve": "Provide a simple UI for pasting a wallet address or integrating a Coinbase Commerce button.",
+    "use_cases": [
+      "Accepting crypto payments on a static page",
+      "Integrating Bitcoin and Ethereum payments",
+      "Simplifying crypto payment processing",
+      "Reaching crypto-savvy customers",
+      "Reducing payment processing fees"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a crypto wallet?",
+        "answer": "Yes, you'll need a crypto wallet to receive payments."
+      },
+      {
+        "question": "Can I accept multiple cryptocurrencies?",
+        "answer": "Yes, you can accept multiple cryptocurrencies like Bitcoin, Ethereum, and more."
+      },
+      {
+        "question": "Is the payment process secure?",
+        "answer": "Yes, crypto payments are secure and irreversible."
+      },
+      {
+        "question": "Can I use Coinbase Commerce?",
+        "answer": "Yes, you can integrate Coinbase Commerce for easier payment processing."
+      },
+      {
+        "question": "Do I need any technical skills?",
+        "answer": "No, OnePageSaaS generates the code for you."
+      }
+    ],
+    "features_pool": [
+      "Crypto payment integration",
+      "Wallet address support",
+      "Coinbase Commerce integration",
+      "Multiple cryptocurrency support",
+      "Secure payments",
+      "Easy to implement"
+    ],
+    "style_hint": "hacker",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "how to host a resume on ipfs",
+    "slug": "host-resume-ipfs",
+    "title": "Unstoppable Resume: Hosting Your Career on the Decentralized Web",
+    "problem_description": "Tech-savvy users want their resume to be permanent and censorship-resistant.",
+    "how_to_solve": "Export a single-file HTML resume ready to be uploaded to IPFS or Arweave.",
+    "use_cases": [
+      "Hosting a resume on IPFS",
+      "Creating a permanent resume",
+      "Making a censorship-resistant resume",
+      "Showcasing technical skills",
+      "Building a decentralized online presence"
+    ],
+    "faqs": [
+      {
+        "question": "What is IPFS?",
+        "answer": "IPFS (InterPlanetary File System) is a decentralized file system that allows files to be stored permanently."
+      },
+      {
+        "question": "Do I need any technical skills?",
+        "answer": "No, OnePageSaaS generates a single-file HTML resume that's ready to upload to IPFS."
+      },
+      {
+        "question": "How do I upload my resume to IPFS?",
+        "answer": "You can use an IPFS gateway or client to upload your resume."
+      },
+      {
+        "question": "Is my resume truly permanent?",
+        "answer": "While IPFS is designed for permanence, it depends on how many nodes are pinning your file."
+      },
+      {
+        "question": "Can I update my resume later?",
+        "answer": "Yes, you can create a new version and upload it to IPFS, but it will have a new hash."
+      }
+    ],
+    "features_pool": [
+      "Single-file HTML resume",
+      "IPFS-ready",
+      "Permanent storage",
+      "Censorship-resistant",
+      "Easy to upload",
+      "Professional appearance"
+    ],
+    "style_hint": "hacker",
+    "schema_type": "WebPage"
+  },
+  {
+    "keyword": "free link in bio for twitch streamers",
+    "slug": "twitch-link-in-bio",
+    "title": "Level Up Your Bio: A Custom Link Page for Streamers",
+    "problem_description": "Streamers need to link to Discord, Merch, and Dono pages with a gaming aesthetic.",
+    "how_to_solve": "A high-contrast, neon-styled link page that loads instantly during streams.",
+    "use_cases": [
+      "Creating a link in bio page for Twitch streamers",
+      "Linking to Discord servers",
+      "Promoting merchandise",
+      "Accepting donations",
+      "Building a streaming brand"
+    ],
+    "faqs": [
+      {
+        "question": "Is the page free to use?",
+        "answer": "Yes, the link in bio page is free to create and host."
+      },
+      {
+        "question": "Can I add multiple links?",
+        "answer": "Yes, you can add multiple links to Discord, Merch, Dono pages, and more."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I customize the page with my branding?",
+        "answer": "Yes, you can modify the page to match your streaming brand's style."
+      },
+      {
+        "question": "How fast will the page load?",
+        "answer": "The page is optimized for fast loading times, perfect for during streams."
+      }
+    ],
+    "features_pool": [
+      "High-contrast neon style",
+      "Instant loading",
+      "Multiple link support",
+      "Gaming aesthetic",
+      "Responsive design",
+      "Easy to update"
+    ],
+    "style_hint": "hacker",
+    "schema_type": "WebPage"
+  },
+  {
+    "keyword": "how to sell 1-on-1 consultations simply",
+    "slug": "sell-consultations-simply",
+    "title": "Expert Billing: Set Up Your Consultation Page in 5 Minutes",
+    "problem_description": "Coaches spend too much time chasing invoices after a call.",
+    "how_to_solve": "A 'Pay to Book' page that ensures payment happens before the meeting link is shared.",
+    "use_cases": [
+      "Selling 1-on-1 consultations",
+      "Automating payment collection",
+      "Streamlining booking process",
+      "Reducing administrative work",
+      "Ensuring payment before service"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Stripe account?",
+        "answer": "Yes, you'll need a Stripe account to process payments."
+      },
+      {
+        "question": "Can I link to my calendar?",
+        "answer": "Yes, you can link the page to your calendar scheduling tool like Calendly."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I set different consultation rates?",
+        "answer": "Yes, you can set different rates for different types of consultations."
+      },
+      {
+        "question": "How do I receive payment notifications?",
+        "answer": "You can receive notifications via email or Telegram."
+      }
+    ],
+    "features_pool": [
+      "Pay to Book functionality",
+      "Stripe integration",
+      "Calendar linking",
+      "Customizable rates",
+      "Responsive design",
+      "Easy to set up"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "collect anonymous tips for journalists",
+    "slug": "anonymous-tips-form",
+    "title": "Protect Your Sources: A Private Anonymous Tip Submission Page",
+    "problem_description": "Journalists need a secure, zero-tracking way to receive documents from whistleblowers.",
+    "how_to_solve": "An PGP-integrated form that sends encrypted data to a secure backend or Telegram.",
+    "use_cases": [
+      "Collecting anonymous tips for journalists",
+      "Protecting sources",
+      "Receiving sensitive information securely",
+      "Maintaining confidentiality",
+      "Building trust with whistleblowers"
+    ],
+    "faqs": [
+      {
+        "question": "Is the form truly anonymous?",
+        "answer": "Yes, the form is designed to collect tips without tracking user information."
+      },
+      {
+        "question": "How secure is the data?",
+        "answer": "The form uses PGP encryption to secure data during transmission."
+      },
+      {
+        "question": "Can I receive documents?",
+        "answer": "Yes, the form can accept document uploads."
+      },
+      {
+        "question": "Do I need any technical skills?",
+        "answer": "No, OnePageSaaS generates the code for you."
+      },
+      {
+        "question": "How do I receive the tips?",
+        "answer": "Tips can be sent to your secure backend or Telegram."
+      }
+    ],
+    "features_pool": [
+      "Anonymous tip collection",
+      "PGP encryption",
+      "Document uploads",
+      "Zero tracking",
+      "Secure transmission",
+      "Easy to implement"
+    ],
+    "style_hint": "hacker",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "simple website for local charity",
+    "slug": "charity-simple-site",
+    "title": "Raise More Funds: A Simple Donation Page for Small Non-Profits",
+    "problem_description": "Charities can't afford expensive web dev agencies for a simple donation portal.",
+    "how_to_solve": "A professional-looking donation page with Stripe's non-profit pricing integration.",
+    "use_cases": [
+      "Creating a simple website for a local charity",
+      "Accepting donations online",
+      "Raising funds for a cause",
+      "Building an online presence for a non-profit",
+      "Increasing donor engagement"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Stripe account?",
+        "answer": "Yes, you'll need a Stripe account to process donations."
+      },
+      {
+        "question": "Can I use Stripe's non-profit pricing?",
+        "answer": "Yes, the page is integrated with Stripe's non-profit pricing for lower fees."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I customize the page with my charity's branding?",
+        "answer": "Yes, you can modify the page to match your charity's style."
+      },
+      {
+        "question": "How do I receive donation notifications?",
+        "answer": "You can receive notifications via email or Telegram."
+      }
+    ],
+    "features_pool": [
+      "Professional donation page",
+      "Stripe non-profit pricing integration",
+      "Responsive design",
+      "Customizable branding",
+      "Easy to set up",
+      "Donation tracking"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "landing page for book launch",
+    "slug": "book-launch-page",
+    "title": "Author's Toolkit: Create a Landing Page for Your New Book",
+    "problem_description": "Authors need to show a preview, testimonials, and a 'Buy on Amazon' button.",
+    "how_to_solve": "A typography-rich template designed to showcase book covers and reviews.",
+    "use_cases": [
+      "Creating a landing page for a book launch",
+      "Showcasing book covers and reviews",
+      "Driving sales to Amazon",
+      "Building an author platform",
+      "Generating buzz for a new book"
+    ],
+    "faqs": [
+      {
+        "question": "Can I add book cover images?",
+        "answer": "Yes, you can add high-quality images of your book cover."
+      },
+      {
+        "question": "Can I include testimonials?",
+        "answer": "Yes, you can add testimonials from readers or reviewers."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I link to multiple book retailers?",
+        "answer": "Yes, you can add links to Amazon, Barnes & Noble, and other retailers."
+      },
+      {
+        "question": "Can I customize the page with my branding?",
+        "answer": "Yes, you can modify the page to match your author brand's style."
+      }
+    ],
+    "features_pool": [
+      "Typography-rich design",
+      "Book cover showcase",
+      "Testimonial display",
+      "Amazon link integration",
+      "Responsive design",
+      "Easy to update"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "WebPage"
+  },
+  {
+    "keyword": "how to build a micro saas in one day",
+    "slug": "micro-saas-one-day",
+    "title": "Speed to Market: Launching Your Micro-SaaS by Sunset",
+    "problem_description": "Founders get stuck in the 'Build' phase for months. They need to simplify.",
+    "how_to_solve": "Use OnePageSaaS to ship the MVP logic in a single file and start testing immediately.",
+    "use_cases": [
+      "Building a micro SaaS in one day",
+      "Shipping an MVP quickly",
+      "Testing business ideas",
+      "Reducing development time",
+      "Getting to market faster"
+    ],
+    "faqs": [
+      {
+        "question": "Is it really possible to build a micro SaaS in one day?",
+        "answer": "Yes, by focusing on the core functionality and using OnePageSaaS to generate the code."
+      },
+      {
+        "question": "Do I need any technical skills?",
+        "answer": "No, OnePageSaaS generates the code for you."
+      },
+      {
+        "question": "Can I add payment processing?",
+        "answer": "Yes, you can integrate Stripe for payment processing."
+      },
+      {
+        "question": "Is the generated code scalable?",
+        "answer": "Yes, the code is designed to be scalable as your business grows."
+      },
+      {
+        "question": "How do I get started?",
+        "answer": "Use OnePageSaaS to generate the code for your micro SaaS and deploy it immediately."
+      }
+    ],
+    "features_pool": [
+      "One-day MVP development",
+      "Single-file deployment",
+      "Stripe integration",
+      "Scalable code",
+      "Easy to test",
+      "Fast to market"
+    ],
+    "style_hint": "hacker",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "alternative to linktree for instagram bio",
+    "slug": "linktree-alternative-instagram",
+    "title": "Stop Looking Like Everyone Else: The Anti-Linktree Bio Page",
+    "problem_description": "Instagram creators want a unique look that doesn't scream 'standard template'.",
+    "how_to_solve": "A fully customizable HTML bio page that you can style with CSS to match your brand.",
+    "use_cases": [
+      "Creating a custom link in bio page for Instagram",
+      "Standing out from standard Linktree templates",
+      "Matching your brand's style",
+      "Adding multiple links to your bio",
+      "Building a unique online presence"
+    ],
+    "faqs": [
+      {
+        "question": "Is this page free to use?",
+        "answer": "Yes, the link in bio page is free to create and host."
+      },
+      {
+        "question": "Can I add multiple links?",
+        "answer": "Yes, you can add multiple links to your social media profiles, website, and more."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I customize the page with my branding?",
+        "answer": "Yes, you can modify the CSS to match your brand's style."
+      },
+      {
+        "question": "How fast will the page load?",
+        "answer": "The page is optimized for fast loading times."
+      }
+    ],
+    "features_pool": [
+      "Fully customizable design",
+      "Multiple link support",
+      "Brand matching",
+      "Responsive design",
+      "Fast loading times",
+      "Easy to update"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "WebPage"
+  },
+  {
+    "keyword": "how to accept stripe payments in plain html",
+    "slug": "stripe-plain-html",
+    "title": "Code Snippet: Integrating Stripe Checkout into a Plain HTML File",
+    "problem_description": "Developers often find Stripe's documentation too focused on React or Node.js.",
+    "how_to_solve": "A simple JavaScript snippet that initiates a checkout session from any button.",
+    "use_cases": [
+      "Accepting Stripe payments in plain HTML",
+      "Integrating Stripe Checkout",
+      "Creating a simple payment form",
+      "Avoiding framework dependencies",
+      "Quickly implementing payment processing"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Stripe account?",
+        "answer": "Yes, you'll need a Stripe account to process payments."
+      },
+      {
+        "question": "Can I customize the payment form?",
+        "answer": "Yes, you can modify the form to match your brand's style."
+      },
+      {
+        "question": "Is the code secure?",
+        "answer": "Yes, the code uses Stripe's secure payment processing."
+      },
+      {
+        "question": "Do I need any technical skills?",
+        "answer": "No, you can simply copy and paste the generated code."
+      },
+      {
+        "question": "Can I use this with any HTML file?",
+        "answer": "Yes, you can add the code to any existing HTML file."
+      }
+    ],
+    "features_pool": [
+      "Stripe Checkout integration",
+      "Plain HTML implementation",
+      "Copy-paste solution",
+      "Secure payment processing",
+      "Customizable design",
+      "Easy to implement"
+    ],
+    "style_hint": "hacker",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "sell access to a private discord server",
+    "slug": "sell-discord-access",
+    "title": "Monetize Your Community: Selling Discord Invites with Stripe",
+    "problem_description": "Community owners want a simple landing page that automatically sends an invite after payment.",
+    "how_to_solve": "A landing page that triggers a Discord invite link via Webhook upon payment success.",
+    "use_cases": [
+      "Selling access to a private Discord server",
+      "Monetizing a community",
+      "Automating invite delivery",
+      "Building a paid community",
+      "Generating recurring revenue"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Stripe account?",
+        "answer": "Yes, you'll need a Stripe account to process payments."
+      },
+      {
+        "question": "Do I need a Discord server?",
+        "answer": "Yes, you'll need a Discord server to invite users to."
+      },
+      {
+        "question": "How does the invite delivery work?",
+        "answer": "The page triggers a Discord Webhook to send an invite link after payment success."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I customize the page with my branding?",
+        "answer": "Yes, you can modify the page to match your community's style."
+      }
+    ],
+    "features_pool": [
+      "Discord invite delivery",
+      "Stripe integration",
+      "Webhook automation",
+      "Customizable design",
+      "Responsive layout",
+      "Easy to set up"
+    ],
+    "style_hint": "hacker",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "portfolio for interior designers simple",
+    "slug": "interior-designer-portfolio",
+    "title": "Visual Excellence: A Minimalist Portfolio for Interior Designers",
+    "problem_description": "Visual artists need high-resolution image support without sacrificing page speed.",
+    "how_to_solve": "Optimized image loading logic within a clean, elegant HTML structure.",
+    "use_cases": [
+      "Creating a portfolio for interior designers",
+      "Showcasing design projects",
+      "Building a professional online presence",
+      "Attracting clients",
+      "Highlighting design skills"
+    ],
+    "faqs": [
+      {
+        "question": "Can I add high-resolution images?",
+        "answer": "Yes, the portfolio supports high-resolution images with optimized loading."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "How fast will the page load?",
+        "answer": "The page uses optimized image loading to ensure fast load times."
+      },
+      {
+        "question": "Can I customize the portfolio design?",
+        "answer": "Yes, you can modify the generated HTML and CSS to match your style."
+      },
+      {
+        "question": "Do I need any technical skills?",
+        "answer": "No, OnePageSaaS generates the code for you."
+      }
+    ],
+    "features_pool": [
+      "High-resolution image support",
+      "Optimized loading",
+      "Clean, elegant design",
+      "Responsive layout",
+      "Easy to update",
+      "Professional appearance"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "WebPage"
+  },
+  {
+    "keyword": "collect pre-orders for physical products",
+    "slug": "collect-pre-orders-simply",
+    "title": "Gauge Demand: Setting Up a Pre-Order Page for Your Next Product",
+    "problem_description": "Hardware startups need to collect interest/payments before manufacturing starts.",
+    "how_to_solve": "A landing page with a countdown, product specs, and a 'Pre-Order Now' Stripe button.",
+    "use_cases": [
+      "Collecting pre-orders for physical products",
+      "Gauging demand before manufacturing",
+      "Securing funding for production",
+      "Building anticipation for a product launch",
+      "Testing market interest"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Stripe account?",
+        "answer": "Yes, you'll need a Stripe account to process pre-orders."
+      },
+      {
+        "question": "Can I add a countdown timer?",
+        "answer": "Yes, you can add a countdown timer to create urgency."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I customize the page with my branding?",
+        "answer": "Yes, you can modify the page to match your brand's style."
+      },
+      {
+        "question": "How do I receive pre-order notifications?",
+        "answer": "You can receive notifications via email or Telegram."
+      }
+    ],
+    "features_pool": [
+      "Countdown timer",
+      "Product specs display",
+      "Pre-Order button",
+      "Stripe integration",
+      "Responsive design",
+      "Easy to set up"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Product"
+  },
+  {
+    "keyword": "simple website for podcast landing page",
+    "slug": "podcast-landing-page",
+    "title": "Grow Your Listeners: A Simple Landing Page for Your Podcast",
+    "problem_description": "Podcasters want a place to host show notes and 'Listen on Spotify/Apple' buttons.",
+    "how_to_solve": "A clean template with an embedded audio player and subscription links.",
+    "use_cases": [
+      "Creating a landing page for a podcast",
+      "Linking to all podcast platforms",
+      "Collecting listener emails",
+      "Showcasing podcast episodes",
+      "Growing podcast audience"
+    ],
+    "faqs": [
+      {
+        "question": "Can I add platform links?",
+        "answer": "Yes, you can add links to Spotify, Apple Podcasts, and other platforms."
+      },
+      {
+        "question": "Can I add a trailer player?",
+        "answer": "Yes, you can add an audio player for your podcast trailer."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I collect emails?",
+        "answer": "Yes, you can add an email signup form to grow your listener base."
+      },
+      {
+        "question": "Can I customize the page with my branding?",
+        "answer": "Yes, you can modify the page to match your podcast's style."
+      }
+    ],
+    "features_pool": [
+      "Platform links",
+      "Trailer player",
+      "Email signup form",
+      "Responsive design",
+      "Customizable branding",
+      "Easy to update"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "WebPage"
+  },
+  {
+    "keyword": "how to sell font files online",
+    "slug": "sell-fonts-online",
+    "title": "Font Foundry: Creating a Sales Page for Your Custom Typefaces",
+    "problem_description": "Type designers want to sell .otf files without the high cuts of Creative Market.",
+    "how_to_solve": "A landing page with a 'Type Tester' JS module and an automated file delivery system.",
+    "use_cases": [
+      "Selling font files online",
+      "Showcasing typefaces",
+      "Monetizing design skills",
+      "Avoiding platform fees",
+      "Reaching a wider audience"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Stripe account?",
+        "answer": "Yes, you'll need a Stripe account to process payments."
+      },
+      {
+        "question": "Can I add a type tester?",
+        "answer": "Yes, you can add a JavaScript module that allows users to test your fonts."
+      },
+      {
+        "question": "How do I deliver the font files?",
+        "answer": "The page includes an automated file delivery system that sends fonts after payment."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I customize the page with my branding?",
+        "answer": "Yes, you can modify the page to match your brand's style."
+      }
+    ],
+    "features_pool": [
+      "Type Tester JS module",
+      "Automated file delivery",
+      "Stripe integration",
+      "Customizable design",
+      "Responsive layout",
+      "Easy to set up"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Product"
+  },
+  {
+    "keyword": "portfolio for voice actors with audio player",
+    "slug": "voice-actor-portfolio",
+    "title": "Heard and Seen: A Voice Actor Portfolio with Instant Playback",
+    "problem_description": "Voice actors need a site where casting directors can hear demos instantly on mobile.",
+    "how_to_solve": "A list-based template with play/pause buttons for various audio demos.",
+    "use_cases": [
+      "Creating a portfolio for voice actors",
+      "Showcasing voice demos",
+      "Building a professional online presence",
+      "Attracting casting directors",
+      "Highlighting voice acting skills"
+    ],
+    "faqs": [
+      {
+        "question": "Can I add audio demos?",
+        "answer": "Yes, you can add multiple audio demos with play/pause buttons."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "How fast will the audio load?",
+        "answer": "The audio is optimized for fast loading and instant playback."
+      },
+      {
+        "question": "Can I customize the portfolio design?",
+        "answer": "Yes, you can modify the generated HTML and CSS to match your style."
+      },
+      {
+        "question": "Do I need any technical skills?",
+        "answer": "No, OnePageSaaS generates the code for you."
+      }
+    ],
+    "features_pool": [
+      "Audio player with play/pause buttons",
+      "List-based template",
+      "Fast audio loading",
+      "Responsive design",
+      "Customizable layout",
+      "Professional appearance"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "WebPage"
+  },
+  {
+    "keyword": "simple website for personal trainer",
+    "slug": "personal-trainer-site",
+    "title": "Get More Clients: The 1-Page Site for Personal Trainers",
+    "problem_description": "Trainers need to show client transformations and a 'Book a Session' form.",
+    "how_to_solve": "A transformation gallery + booking form that alerts the trainer via Telegram.",
+    "use_cases": [
+      "Creating a simple website for a personal trainer",
+      "Showcasing client transformations",
+      "Booking training sessions",
+      "Building a professional online presence",
+      "Attracting new clients"
+    ],
+    "faqs": [
+      {
+        "question": "Can I add client transformation photos?",
+        "answer": "Yes, you can add a gallery of client transformation photos."
+      },
+      {
+        "question": "Can I add a booking form?",
+        "answer": "Yes, you can add a booking form that sends alerts via Telegram."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I customize the page with my branding?",
+        "answer": "Yes, you can modify the page to match your personal training brand's style."
+      },
+      {
+        "question": "How do I receive booking notifications?",
+        "answer": "You can receive notifications via Telegram."
+      }
+    ],
+    "features_pool": [
+      "Transformation gallery",
+      "Booking form",
+      "Telegram notifications",
+      "Responsive design",
+      "Customizable branding",
+      "Easy to update"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "how to sell recipes online",
+    "slug": "sell-recipes-online",
+    "title": "Cook and Earn: How to Sell Your Secret Recipes as PDFs",
+    "problem_description": "Food bloggers want to monetize their best recipes without a complex membership site.",
+    "how_to_solve": "A mouth-watering landing page template with a 'Buy Recipe' button.",
+    "use_cases": [
+      "Selling recipes online",
+      "Monetizing food blog content",
+      "Creating PDF recipe packs",
+      "Reaching a wider audience",
+      "Building a passive income stream"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Stripe account?",
+        "answer": "Yes, you'll need a Stripe account to process payments."
+      },
+      {
+        "question": "How do I deliver the recipe PDFs?",
+        "answer": "Recipes are delivered as PDF files via email after payment."
+      },
+      {
+        "question": "Can I sell multiple recipe packs?",
+        "answer": "Yes, you can create a page with multiple recipe packs and separate payment options."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I customize the page with my branding?",
+        "answer": "Yes, you can modify the page to match your food blog's style."
+      }
+    ],
+    "features_pool": [
+      "PDF recipe delivery",
+      "Stripe integration",
+      "Instant delivery",
+      "Customizable design",
+      "Responsive layout",
+      "Easy to set up"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Product"
+  },
+  {
+    "keyword": "collect real estate leads with simple form",
+    "slug": "real-estate-leads-form",
+    "title": "Agent Tools: A High-Converting Lead Gen Page for Real Estate",
+    "problem_description": "Agents need a dedicated page for a single listing that captures buyer info.",
+    "how_to_solve": "A listing-focused page with a 'Schedule a Viewing' form sent to the agent's phone.",
+    "use_cases": [
+      "Collecting real estate leads",
+      "Capturing buyer information",
+      "Scheduling property viewings",
+      "Generating high-quality leads",
+      "Building a client database"
+    ],
+    "faqs": [
+      {
+        "question": "Can I add property photos?",
+        "answer": "Yes, you can add high-quality photos of the property."
+      },
+      {
+        "question": "How do I receive lead notifications?",
+        "answer": "You can receive notifications via email or Telegram."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I customize the form fields?",
+        "answer": "Yes, you can modify the form fields to collect the information you need."
+      },
+      {
+        "question": "Can I use this for multiple listings?",
+        "answer": "Yes, you can create a separate page for each listing."
+      }
+    ],
+    "features_pool": [
+      "Schedule a Viewing form",
+      "Property photo gallery",
+      "Lead notification",
+      "Responsive design",
+      "Customizable form fields",
+      "Easy to set up"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "simple website for hair stylist",
+    "slug": "hair-stylist-site",
+    "title": "Style Online: A Booking and Portfolio Page for Hair Stylists",
+    "problem_description": "Stylists need an Instagram-integrated portfolio and a way to accept deposits.",
+    "how_to_solve": "A gallery-style template with a Stripe 'Pay Deposit' button.",
+    "use_cases": [
+      "Creating a simple website for a hair stylist",
+      "Showcasing hair styling work",
+      "Accepting booking deposits",
+      "Integrating with Instagram",
+      "Building a professional online presence"
+    ],
+    "faqs": [
+      {
+        "question": "Can I add a portfolio gallery?",
+        "answer": "Yes, you can add a gallery of your hair styling work."
+      },
+      {
+        "question": "Can I integrate with Instagram?",
+        "answer": "Yes, you can integrate your Instagram feed into the page."
+      },
+      {
+        "question": "Can I accept deposits?",
+        "answer": "Yes, you can add a Stripe 'Pay Deposit' button."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I customize the page with my branding?",
+        "answer": "Yes, you can modify the page to match your salon's style."
+      }
+    ],
+    "features_pool": [
+      "Gallery-style template",
+      "Instagram integration",
+      "Stripe 'Pay Deposit' button",
+      "Responsive design",
+      "Customizable branding",
+      "Easy to update"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "sell travel itineraries as pdf",
+    "slug": "sell-travel-itineraries",
+    "title": "Travel Entrepreneur: Selling Your Curated Itineraries Online",
+    "problem_description": "Travelers want to sell their '7-Day Japan Guide' without paying for a full store.",
+    "how_to_solve": "A 'Travel Guide' landing page with preview pages and a purchase button.",
+    "use_cases": [
+      "Selling travel itineraries as PDFs",
+      "Monetizing travel expertise",
+      "Creating curated travel guides",
+      "Reaching a wider audience",
+      "Building a passive income stream"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Stripe account?",
+        "answer": "Yes, you'll need a Stripe account to process payments."
+      },
+      {
+        "question": "How do I deliver the itinerary PDFs?",
+        "answer": "Itineraries are delivered as PDF files via email after payment."
+      },
+      {
+        "question": "Can I add preview pages?",
+        "answer": "Yes, you can add preview pages to showcase the content of your itineraries."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I customize the page with my branding?",
+        "answer": "Yes, you can modify the page to match your travel brand's style."
+      }
+    ],
+    "features_pool": [
+      "Travel guide landing page",
+      "Preview pages",
+      "PDF delivery",
+      "Stripe integration",
+      "Responsive design",
+      "Easy to set up"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Product"
+  },
+  {
+    "keyword": "simple website for tutor with payment",
+    "slug": "tutor-website-payment",
+    "title": "Tutor Tools: How to Accept Payment for Online Lessons",
+    "problem_description": "Tutors often deal with late payments. They need a 'Pay Before You Learn' system.",
+    "how_to_solve": "A simple booking page where the student pays via Stripe to confirm the slot.",
+    "use_cases": [
+      "Creating a simple website for a tutor",
+      "Accepting payments for lessons",
+      "Booking lesson slots",
+      "Avoiding late payments",
+      "Building a professional online presence"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Stripe account?",
+        "answer": "Yes, you'll need a Stripe account to process payments."
+      },
+      {
+        "question": "Can I set up a booking system?",
+        "answer": "Yes, you can create a booking page where students pay to confirm their slots."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I customize the page with my branding?",
+        "answer": "Yes, you can modify the page to match your tutoring brand's style."
+      },
+      {
+        "question": "How do I receive payment notifications?",
+        "answer": "You can receive notifications via email or Stripe."
+      }
+    ],
+    "features_pool": [
+      "Booking page",
+      "Stripe payment integration",
+      "Lesson slot confirmation",
+      "Responsive design",
+      "Customizable branding",
+      "Easy to set up"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "portfolio for freelance writers with links",
+    "slug": "freelance-writer-portfolio",
+    "title": "Write to Win: A Professional Portfolio for Freelance Writers",
+    "problem_description": "Writers need a clean way to link to their published articles across the web.",
+    "how_to_solve": "A text-heavy, elegant layout with organized links to various publications.",
+    "use_cases": [
+      "Creating a portfolio for freelance writers",
+      "Linking to published articles",
+      "Building a professional online presence",
+      "Attracting clients",
+      "Showcasing writing skills"
+    ],
+    "faqs": [
+      {
+        "question": "Can I add links to published articles?",
+        "answer": "Yes, you can add organized links to your published articles."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I customize the portfolio design?",
+        "answer": "Yes, you can modify the generated HTML and CSS to match your style."
+      },
+      {
+        "question": "Do I need any technical skills?",
+        "answer": "No, OnePageSaaS generates the code for you."
+      },
+      {
+        "question": "Can I add a contact form?",
+        "answer": "Yes, you can add a contact form for potential clients."
+      }
+    ],
+    "features_pool": [
+      "Text-heavy, elegant layout",
+      "Organized links to publications",
+      "Responsive design",
+      "Customizable layout",
+      "Contact form",
+      "Easy to update"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "WebPage"
+  },
+  {
+    "keyword": "how to create a digital business card for free",
+    "slug": "free-digital-business-card",
+    "title": "The Last Business Card You'll Need: A Free Digital Version",
+    "problem_description": "Users want a QR-code scannable card that saves their info to a phone's contacts.",
+    "how_to_solve": "A mobile-first HTML page with a 'vCard' download button.",
+    "use_cases": [
+      "Creating a digital business card",
+      "Sharing contact information easily",
+      "Generating QR codes for contact info",
+      "Downloading vCard files",
+      "Building a professional online presence"
+    ],
+    "faqs": [
+      {
+        "question": "Is this really free?",
+        "answer": "Yes, you can create a digital business card for free using OnePageSaaS."
+      },
+      {
+        "question": "Can I add a QR code?",
+        "answer": "Yes, you can add a QR code that scannable by phones."
+      },
+      {
+        "question": "Can I add a vCard download button?",
+        "answer": "Yes, you can add a button that allows users to download your contact info as a vCard."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is mobile-first and works on all devices."
+      },
+      {
+        "question": "Can I customize the card with my branding?",
+        "answer": "Yes, you can modify the page to match your brand's style."
+      }
+    ],
+    "features_pool": [
+      "Mobile-first design",
+      "QR code generation",
+      "vCard download button",
+      "Responsive layout",
+      "Customizable branding",
+      "Easy to set up"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "WebPage"
+  },
+  {
+    "keyword": "sell woodturning patterns online",
+    "slug": "sell-craft-patterns",
+    "title": "Hobby to Business: Selling Your Craft Patterns and Blueprints",
+    "problem_description": "Crafters want to sell digital blueprints but aren't tech-savvy.",
+    "how_to_solve": "A simple 'Blueprints' landing page with a clear 'Buy & Download' flow.",
+    "use_cases": [
+      "Selling woodturning patterns online",
+      "Monetizing craft skills",
+      "Creating digital blueprints",
+      "Reaching a wider audience",
+      "Building a passive income stream"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Stripe account?",
+        "answer": "Yes, you'll need a Stripe account to process payments."
+      },
+      {
+        "question": "How do I deliver the patterns?",
+        "answer": "Patterns are delivered as digital files via email after payment."
+      },
+      {
+        "question": "Can I sell multiple patterns?",
+        "answer": "Yes, you can create a page with multiple patterns and separate payment options."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I customize the page with my branding?",
+        "answer": "Yes, you can modify the page to match your craft brand's style."
+      }
+    ],
+    "features_pool": [
+      "Blueprints landing page",
+      "Buy & Download flow",
+      "Digital file delivery",
+      "Stripe integration",
+      "Responsive design",
+      "Easy to set up"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Product"
+  },
+  {
+    "keyword": "simple website for small lawn care business",
+    "slug": "lawn-care-simple-site",
+    "title": "Mow More Lawns: A Simple Booking Page for Lawn Care Pros",
+    "problem_description": "Service pros just need a way for customers to request a quote via text.",
+    "how_to_solve": "A 'Request Quote' form that triggers an SMS or Telegram alert to the owner.",
+    "use_cases": [
+      "Creating a simple website for a lawn care business",
+      "Requesting quotes for lawn care services",
+      "Booking lawn care appointments",
+      "Building a professional online presence",
+      "Attracting new customers"
+    ],
+    "faqs": [
+      {
+        "question": "Can I add a request quote form?",
+        "answer": "Yes, you can add a form that triggers SMS or Telegram alerts."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I customize the page with my branding?",
+        "answer": "Yes, you can modify the page to match your lawn care business's style."
+      },
+      {
+        "question": "How do I receive quote requests?",
+        "answer": "You can receive notifications via SMS or Telegram."
+      },
+      {
+        "question": "Do I need any technical skills?",
+        "answer": "No, OnePageSaaS generates the code for you."
+      }
+    ],
+    "features_pool": [
+      "Request Quote form",
+      "SMS or Telegram alerts",
+      "Responsive design",
+      "Customizable branding",
+      "Easy to set up",
+      "Professional appearance"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "sell procreate brushes simply",
+    "slug": "sell-procreate-brushes",
+    "title": "Artist Tools: Creating a Sales Page for Your Procreate Brushes",
+    "problem_description": "Digital artists want to sell brush packs without high platform commissions.",
+    "how_to_solve": "A visual brush-demo gallery with integrated Stripe checkout.",
+    "use_cases": [
+      "Selling Procreate brushes online",
+      "Monetizing digital art tools",
+      "Showcasing brush demos",
+      "Avoiding platform commissions",
+      "Reaching a wider audience"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Stripe account?",
+        "answer": "Yes, you'll need a Stripe account to process payments."
+      },
+      {
+        "question": "Can I add a brush-demo gallery?",
+        "answer": "Yes, you can add a visual gallery that demonstrates your brushes."
+      },
+      {
+        "question": "How do I deliver the brush packs?",
+        "answer": "Brush packs are delivered as digital files via email after payment."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I customize the page with my branding?",
+        "answer": "Yes, you can modify the page to match your artist brand's style."
+      }
+    ],
+    "features_pool": [
+      "Visual brush-demo gallery",
+      "Stripe checkout integration",
+      "Digital file delivery",
+      "Responsive design",
+      "Customizable branding",
+      "Easy to set up"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Product"
+  },
+  {
+    "keyword": "how to add a video background to static site",
+    "slug": "video-background-static-site",
+    "title": "Cinematic Sales: Adding High-Quality Video Backgrounds to HTML",
+    "problem_description": "Users want their landing pages to look high-end like premium SaaS sites.",
+    "how_to_solve": "A pre-built 'Hero Video' module in the generator for an instant 'wow' factor.",
+    "use_cases": [
+      "Adding a video background to a static site",
+      "Creating a high-end landing page",
+      "Enhancing visual appeal",
+      "Impressing visitors",
+      "Standing out from competitors"
+    ],
+    "faqs": [
+      {
+        "question": "Can I add a video background?",
+        "answer": "Yes, you can add a high-quality video background to your static site."
+      },
+      {
+        "question": "Will the video affect page load time?",
+        "answer": "The video is optimized for fast loading and won't slow down your page."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I customize the video?",
+        "answer": "Yes, you can use your own video or choose from stock videos."
+      },
+      {
+        "question": "Do I need any technical skills?",
+        "answer": "No, OnePageSaaS generates the code for you."
+      }
+    ],
+    "features_pool": [
+      "Hero Video module",
+      "High-quality video background",
+      "Optimized loading",
+      "Responsive design",
+      "Customizable video",
+      "Easy to implement"
+    ],
+    "style_hint": "brutalist",
+    "schema_type": "WebPage"
+  },
+  {
+    "keyword": "portfolio for makeup artists simple",
+    "slug": "makeup-artist-portfolio",
+    "title": "Face of Business: A Clean Portfolio for Makeup Artists",
+    "problem_description": "Makeup artists need a high-quality gallery to show detail-oriented work.",
+    "how_to_solve": "A 'Before/After' slider module integrated into a simple HTML portfolio.",
+    "use_cases": [
+      "Creating a portfolio for makeup artists",
+      "Showcasing makeup work",
+      "Displaying before/after transformations",
+      "Building a professional online presence",
+      "Attracting clients"
+    ],
+    "faqs": [
+      {
+        "question": "Can I add a before/after slider?",
+        "answer": "Yes, you can add a slider module that shows before and after makeup transformations."
+      },
+      {
+        "question": "Can I add high-quality photos?",
+        "answer": "Yes, the portfolio supports high-quality images to show detail-oriented work."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I customize the portfolio design?",
+        "answer": "Yes, you can modify the generated HTML and CSS to match your style."
+      },
+      {
+        "question": "Do I need any technical skills?",
+        "answer": "No, OnePageSaaS generates the code for you."
+      }
+    ],
+    "features_pool": [
+      "Before/After slider module",
+      "High-quality image gallery",
+      "Responsive design",
+      "Customizable layout",
+      "Professional appearance",
+      "Easy to update"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "WebPage"
+  },
+  {
+    "keyword": "sell google sheets trackers simply",
+    "slug": "sell-google-sheets-trackers",
+    "title": "Spreadsheet Income: How to Sell Your Google Sheets Trackers",
+    "problem_description": "Fintech hobbyists want to sell budgeting sheets without a complex backend.",
+    "how_to_solve": "A landing page that redirects to a 'Make a Copy' link after payment.",
+    "use_cases": [
+      "Selling Google Sheets trackers online",
+      "Monetizing spreadsheet skills",
+      "Creating budgeting tools",
+      "Avoiding complex backends",
+      "Reaching a wider audience"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Stripe account?",
+        "answer": "Yes, you'll need a Stripe account to process payments."
+      },
+      {
+        "question": "How do I deliver the Google Sheets trackers?",
+        "answer": "Users are redirected to a 'Make a Copy' link after payment."
+      },
+      {
+        "question": "Can I sell multiple trackers?",
+        "answer": "Yes, you can create a page with multiple trackers and separate payment options."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I customize the page with my branding?",
+        "answer": "Yes, you can modify the page to match your brand's style."
+      }
+    ],
+    "features_pool": [
+      "Landing page for Google Sheets trackers",
+      "Redirect to 'Make a Copy' link",
+      "Stripe integration",
+      "Responsive design",
+      "Customizable branding",
+      "Easy to set up"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Product"
+  },
+  {
+    "keyword": "simple website for wedding photographer",
+    "slug": "wedding-photographer-site",
+    "title": "Capture the Moment: A Lightweight Wedding Photography Page",
+    "problem_description": "Photographers want a fast site to show a few 'Hero' shots and a contact form.",
+    "how_to_solve": "A minimalist gallery focused on large, high-impact imagery and a booking form.",
+    "use_cases": [
+      "Creating a simple website for a wedding photographer",
+      "Showcasing wedding photography work",
+      "Booking photography sessions",
+      "Building a professional online presence",
+      "Attracting clients"
+    ],
+    "faqs": [
+      {
+        "question": "Can I add a gallery of wedding photos?",
+        "answer": "Yes, you can add a minimalist gallery focused on large, high-impact imagery."
+      },
+      {
+        "question": "Can I add a booking form?",
+        "answer": "Yes, you can add a contact form for clients to book sessions."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I customize the page with my branding?",
+        "answer": "Yes, you can modify the page to match your photography brand's style."
+      },
+      {
+        "question": "How fast will the page load?",
+        "answer": "The page is optimized for fast loading, even with high-quality images."
+      }
+    ],
+    "features_pool": [
+      "Minimalist gallery",
+      "High-impact imagery",
+      "Booking form",
+      "Responsive design",
+      "Customizable branding",
+      "Fast loading"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "WebPage"
+  },
+  {
+    "keyword": "how to create a simple landing page for an app",
+    "slug": "app-landing-page-simple",
+    "title": "Ship Your App: A High-Converting App Store Landing Page",
+    "problem_description": "App developers need a page to host their support links and 'Download on App Store' buttons.",
+    "how_to_solve": "A clean template with phone mockups and official store badges.",
+    "use_cases": [
+      "Creating a landing page for an app",
+      "Hosting support links",
+      "Adding app store download buttons",
+      "Showcasing app features",
+      "Driving app downloads"
+    ],
+    "faqs": [
+      {
+        "question": "Can I add phone mockups?",
+        "answer": "Yes, you can add phone mockups to showcase your app."
+      },
+      {
+        "question": "Can I add app store badges?",
+        "answer": "Yes, you can add official 'Download on App Store' and 'Get it on Google Play' buttons."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I customize the page with my app's branding?",
+        "answer": "Yes, you can modify the page to match your app's style."
+      },
+      {
+        "question": "Do I need any technical skills?",
+        "answer": "No, OnePageSaaS generates the code for you."
+      }
+    ],
+    "features_pool": [
+      "Clean template with phone mockups",
+      "Official store badges",
+      "Support links",
+      "Responsive design",
+      "Customizable branding",
+      "Easy to set up"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "SoftwareApplication"
+  },
+  {
+    "keyword": "sell knitting patterns online simply",
+    "slug": "sell-knitting-patterns",
+    "title": "Knitting for Profit: Selling Your Patterns Directly to Makers",
+    "problem_description": "Ravelry users want their own site to avoid platform drama and keep more profit.",
+    "how_to_solve": "A cozy, image-focused landing page for digital pattern downloads.",
+    "use_cases": [
+      "Selling knitting patterns online",
+      "Monetizing knitting skills",
+      "Creating digital patterns",
+      "Avoiding platform fees",
+      "Reaching a wider audience"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Stripe account?",
+        "answer": "Yes, you'll need a Stripe account to process payments."
+      },
+      {
+        "question": "How do I deliver the knitting patterns?",
+        "answer": "Patterns are delivered as digital files via email after payment."
+      },
+      {
+        "question": "Can I sell multiple patterns?",
+        "answer": "Yes, you can create a page with multiple patterns and separate payment options."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I customize the page with my branding?",
+        "answer": "Yes, you can modify the page to match your knitting brand's style."
+      }
+    ],
+    "features_pool": [
+      "Cozy, image-focused landing page",
+      "Digital pattern downloads",
+      "Stripe integration",
+      "Responsive design",
+      "Customizable branding",
+      "Easy to set up"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Product"
+  },
+  {
+    "keyword": "simple website for dog walkers",
+    "slug": "dog-walker-simple-site",
+    "title": "Paws and Profit: A Simple Booking Page for Dog Walkers",
+    "problem_description": "Local dog walkers need a way to show availability and take bookings.",
+    "how_to_solve": "A friendly, one-page site with a contact form that goes straight to their phone.",
+    "use_cases": [
+      "Creating a simple website for a dog walker",
+      "Showing availability",
+      "Taking bookings",
+      "Building a professional online presence",
+      "Attracting new clients"
+    ],
+    "faqs": [
+      {
+        "question": "Can I add a contact form?",
+        "answer": "Yes, you can add a contact form that sends messages directly to your phone."
+      },
+      {
+        "question": "Can I show my availability?",
+        "answer": "Yes, you can add a section to show your availability for dog walking services."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I customize the page with my branding?",
+        "answer": "Yes, you can modify the page to match your dog walking business's style."
+      },
+      {
+        "question": "Do I need any technical skills?",
+        "answer": "No, OnePageSaaS generates the code for you."
+      }
+    ],
+    "features_pool": [
+      "Friendly, one-page design",
+      "Contact form",
+      "Availability section",
+      "Responsive design",
+      "Customizable branding",
+      "Easy to set up"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "sell midi packs for music producers",
+    "slug": "sell-midi-packs",
+    "title": "Producer Tools: How to Sell Your MIDI and Sample Packs",
+    "problem_description": "Music producers want to sell 'beat kits' without using a heavy marketplace.",
+    "how_to_solve": "A list-style template with audio previews for each pack and a buy button.",
+    "use_cases": [
+      "Selling MIDI packs for music producers",
+      "Monetizing music production skills",
+      "Creating beat kits",
+      "Avoiding heavy marketplaces",
+      "Reaching a wider audience"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Stripe account?",
+        "answer": "Yes, you'll need a Stripe account to process payments."
+      },
+      {
+        "question": "Can I add audio previews?",
+        "answer": "Yes, you can add audio previews for each MIDI pack."
+      },
+      {
+        "question": "How do I deliver the MIDI packs?",
+        "answer": "Packs are delivered as digital files via email after payment."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I customize the page with my branding?",
+        "answer": "Yes, you can modify the page to match your music production brand's style."
+      }
+    ],
+    "features_pool": [
+      "List-style template",
+      "Audio previews",
+      "Buy button",
+      "Stripe integration",
+      "Responsive design",
+      "Easy to set up"
+    ],
+    "style_hint": "hacker",
+    "schema_type": "Product"
+  },
+  {
+    "keyword": "how to add an accordion FAQ to static site",
+    "slug": "accordion-faq-static-site",
+    "title": "Answer Faster: Adding a Clean FAQ Section to Your Sales Page",
+    "problem_description": "Sales pages need to address objections, but long text lists look messy.",
+    "how_to_solve": "An interactive, animated FAQ module built into the generator's component library.",
+    "use_cases": [
+      "Adding an accordion FAQ to a static site",
+      "Addressing customer objections",
+      "Organizing frequently asked questions",
+      "Improving user experience",
+      "Making sales pages more professional"
+    ],
+    "faqs": [
+      {
+        "question": "Can I add an accordion FAQ section?",
+        "answer": "Yes, you can add an interactive, animated FAQ module to your static site."
+      },
+      {
+        "question": "Is the FAQ section mobile-friendly?",
+        "answer": "Yes, the FAQ section is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I customize the FAQ design?",
+        "answer": "Yes, you can modify the FAQ module to match your site's style."
+      },
+      {
+        "question": "Do I need any technical skills?",
+        "answer": "No, OnePageSaaS generates the code for you."
+      },
+      {
+        "question": "Can I add multiple FAQ items?",
+        "answer": "Yes, you can add as many FAQ items as you need."
+      }
+    ],
+    "features_pool": [
+      "Interactive accordion FAQ",
+      "Animated transitions",
+      "Responsive design",
+      "Customizable styling",
+      "Easy to implement",
+      "Professional appearance"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "WebPage"
+  },
+  {
+    "keyword": "simple website for freelance bookkeeper",
+    "slug": "bookkeeper-simple-site",
+    "title": "Organized Growth: A Professional Page for Freelance Bookkeepers",
+    "problem_description": "Accountants need a site that screams 'trust and organization' without the fluff.",
+    "how_to_solve": "A clean, grid-based layout emphasizing services and a 'Get a Quote' button.",
+    "use_cases": [
+      "Creating a simple website for a freelance bookkeeper",
+      "Showcasing bookkeeping services",
+      "Generating quotes",
+      "Building a professional online presence",
+      "Attracting new clients"
+    ],
+    "faqs": [
+      {
+        "question": "Can I add a 'Get a Quote' button?",
+        "answer": "Yes, you can add a button that allows clients to request quotes."
+      },
+      {
+        "question": "Can I showcase my services?",
+        "answer": "Yes, you can add a grid-based layout to emphasize your bookkeeping services."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I customize the page with my branding?",
+        "answer": "Yes, you can modify the page to match your bookkeeping business's style."
+      },
+      {
+        "question": "Do I need any technical skills?",
+        "answer": "No, OnePageSaaS generates the code for you."
+      }
+    ],
+    "features_pool": [
+      "Clean, grid-based layout",
+      "Services section",
+      "Get a Quote button",
+      "Responsive design",
+      "Customizable branding",
+      "Professional appearance"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "sell language learning worksheets",
+    "slug": "sell-language-worksheets",
+    "title": "Teach Globally: Selling Your Language Learning PDFs Online",
+    "problem_description": "Teachers want to monetize their classroom materials directly.",
+    "how_to_solve": "A 'Resource Library' template that allows users to buy individual worksheets.",
+    "use_cases": [
+      "Selling language learning worksheets",
+      "Monetizing classroom materials",
+      "Creating a resource library",
+      "Reaching a global audience",
+      "Building a passive income stream"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Stripe account?",
+        "answer": "Yes, you'll need a Stripe account to process payments."
+      },
+      {
+        "question": "How do I deliver the worksheets?",
+        "answer": "Worksheets are delivered as PDF files via email after payment."
+      },
+      {
+        "question": "Can I sell individual worksheets?",
+        "answer": "Yes, you can create a resource library that allows users to buy individual worksheets."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I customize the page with my branding?",
+        "answer": "Yes, you can modify the page to match your teaching brand's style."
+      }
+    ],
+    "features_pool": [
+      "Resource Library template",
+      "Individual worksheet purchases",
+      "PDF delivery",
+      "Stripe integration",
+      "Responsive design",
+      "Easy to set up"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Product"
+  },
+  {
+    "keyword": "simple website for window cleaning business",
+    "slug": "window-cleaning-site",
+    "title": "Clear Vision: A Simple Lead Gen Site for Window Cleaners",
+    "problem_description": "Local service pros need a site that looks good on a customer's phone.",
+    "how_to_solve": "A mobile-first page with a prominent 'Call Now' button and a quote form.",
+    "use_cases": [
+      "Creating a simple website for a window cleaning business",
+      "Generating leads",
+      "Providing contact information",
+      "Building a professional online presence",
+      "Attracting new customers"
+    ],
+    "faqs": [
+      {
+        "question": "Can I add a 'Call Now' button?",
+        "answer": "Yes, you can add a prominent 'Call Now' button to your site."
+      },
+      {
+        "question": "Can I add a quote form?",
+        "answer": "Yes, you can add a form for customers to request quotes."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is mobile-first and works on all devices."
+      },
+      {
+        "question": "Can I customize the page with my branding?",
+        "answer": "Yes, you can modify the page to match your window cleaning business's style."
+      },
+      {
+        "question": "Do I need any technical skills?",
+        "answer": "No, OnePageSaaS generates the code for you."
+      }
+    ],
+    "features_pool": [
+      "Mobile-first design",
+      "Prominent 'Call Now' button",
+      "Quote form",
+      "Responsive layout",
+      "Customizable branding",
+      "Easy to set up"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "how to host a static site for free forever",
+    "slug": "free-static-hosting-forever",
+    "title": "The $0 Business: Hosting Your Website Forever Without a Bill",
+    "problem_description": "Users are afraid of 'Surprise Bills' from cloud providers.",
+    "how_to_solve": "A guide on using the free tiers of Vercel, Netlify, and GitHub Pages with OnePageSaaS.",
+    "use_cases": [
+      "Hosting a static site for free",
+      "Avoiding surprise bills from cloud providers",
+      "Using free tiers of hosting platforms",
+      "Deploying sites with OnePageSaaS",
+      "Building a cost-effective online presence"
+    ],
+    "faqs": [
+      {
+        "question": "Is this really free forever?",
+        "answer": "Yes, you can use the free tiers of Vercel, Netlify, and GitHub Pages indefinitely."
+      },
+      {
+        "question": "Do I need technical skills?",
+        "answer": "No, OnePageSaaS generates the code and provides deployment guides."
+      },
+      {
+        "question": "Can I use this with any static site?",
+        "answer": "Yes, you can use this method with any static site generated by OnePageSaaS."
+      },
+      {
+        "question": "What happens if I exceed the free tier limits?",
+        "answer": "You'll receive a notification before any charges are incurred."
+      },
+      {
+        "question": "Can I switch hosting providers later?",
+        "answer": "Yes, you can easily migrate your site to a different provider if needed."
+      }
+    ],
+    "features_pool": [
+      "Guide on free hosting options",
+      "Vercel, Netlify, and GitHub Pages integration",
+      "OnePageSaaS compatibility",
+      "Cost-effective solution",
+      "No surprise bills",
+      "Easy to implement"
+    ],
+    "style_hint": "hacker",
+    "schema_type": "WebPage"
+  },
+  {
+    "keyword": "sell customized meal plans online",
+    "slug": "sell-meal-plans",
+    "title": "Fitness Income: Selling Your Custom Meal Plans as PDFs",
+    "problem_description": "Nutritionists need a simple intake form and a payment gate for their plans.",
+    "how_to_solve": "A landing page that collects dietary info and processes payment in one flow.",
+    "use_cases": [
+      "Selling customized meal plans online",
+      "Monetizing nutrition expertise",
+      "Collecting dietary information",
+      "Reaching a wider audience",
+      "Building a passive income stream"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Stripe account?",
+        "answer": "Yes, you'll need a Stripe account to process payments."
+      },
+      {
+        "question": "Can I add a dietary intake form?",
+        "answer": "Yes, you can add a form to collect dietary information from customers."
+      },
+      {
+        "question": "How do I deliver the meal plans?",
+        "answer": "Meal plans are delivered as PDF files via email after payment."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I customize the page with my branding?",
+        "answer": "Yes, you can modify the page to match your nutrition business's style."
+      }
+    ],
+    "features_pool": [
+      "Dietary intake form",
+      "Payment processing",
+      "PDF meal plan delivery",
+      "Stripe integration",
+      "Responsive design",
+      "Easy to set up"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Product"
+  },
+  {
+    "keyword": "simple website for notary public",
+    "slug": "notary-public-site",
+    "title": "Official and Easy: A Simple Landing Page for Notaries",
+    "problem_description": "Notaries need to show their location, hours, and a way to book appointments.",
+    "how_to_solve": "A professional-style template with integrated Google Maps and a booking form.",
+    "use_cases": [
+      "Creating a simple website for a notary public",
+      "Showing location and hours",
+      "Booking appointments",
+      "Building a professional online presence",
+      "Attracting new clients"
+    ],
+    "faqs": [
+      {
+        "question": "Can I add Google Maps integration?",
+        "answer": "Yes, you can add integrated Google Maps to show your location."
+      },
+      {
+        "question": "Can I add a booking form?",
+        "answer": "Yes, you can add a form for clients to book appointments."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I customize the page with my branding?",
+        "answer": "Yes, you can modify the page to match your notary business's style."
+      },
+      {
+        "question": "Do I need any technical skills?",
+        "answer": "No, OnePageSaaS generates the code for you."
+      }
+    ],
+    "features_pool": [
+      "Professional-style template",
+      "Google Maps integration",
+      "Booking form",
+      "Responsive design",
+      "Customizable branding",
+      "Easy to set up"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "how to add a testimonial slider to html",
+    "slug": "testimonial-slider-html",
+    "title": "Social Proof: Adding a Clean Testimonial Slider to Your Site",
+    "problem_description": "Founders know they need testimonials but don't know how to code a slider.",
+    "how_to_solve": "A responsive, touch-friendly testimonial component ready for the generator.",
+    "use_cases": [
+      "Adding a testimonial slider to HTML",
+      "Showcasing customer testimonials",
+      "Adding social proof to a site",
+      "Improving conversion rates",
+      "Enhancing user experience"
+    ],
+    "faqs": [
+      {
+        "question": "Can I add a testimonial slider?",
+        "answer": "Yes, you can add a responsive, touch-friendly testimonial slider to your HTML site."
+      },
+      {
+        "question": "Is the slider mobile-friendly?",
+        "answer": "Yes, the slider is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I customize the slider design?",
+        "answer": "Yes, you can modify the slider to match your site's style."
+      },
+      {
+        "question": "Do I need any technical skills?",
+        "answer": "No, OnePageSaaS generates the code for you."
+      },
+      {
+        "question": "Can I add multiple testimonials?",
+        "answer": "Yes, you can add as many testimonials as you need."
+      }
+    ],
+    "features_pool": [
+      "Responsive testimonial slider",
+      "Touch-friendly design",
+      "Social proof component",
+      "Customizable styling",
+      "Easy to implement",
+      "Professional appearance"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "WebPage"
+  },
+  {
+    "keyword": "sell crochet patterns for beginners",
+    "slug": "sell-crochet-patterns",
+    "title": "Crochet Business: Selling Your Original Patterns Online",
+    "problem_description": "Crafters want a feminine, clean aesthetic for their sales pages.",
+    "how_to_solve": "An elegant, soft-palette template designed for craft sales.",
+    "use_cases": [
+      "Selling crochet patterns for beginners",
+      "Monetizing crochet skills",
+      "Creating original patterns",
+      "Reaching a wider audience",
+      "Building a passive income stream"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Stripe account?",
+        "answer": "Yes, you'll need a Stripe account to process payments."
+      },
+      {
+        "question": "How do I deliver the crochet patterns?",
+        "answer": "Patterns are delivered as digital files via email after payment."
+      },
+      {
+        "question": "Can I sell multiple patterns?",
+        "answer": "Yes, you can create a page with multiple patterns and separate payment options."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I customize the page with my branding?",
+        "answer": "Yes, you can modify the page to match your crochet brand's style."
+      }
+    ],
+    "features_pool": [
+      "Elegant, soft-palette template",
+      "Digital pattern delivery",
+      "Stripe integration",
+      "Responsive design",
+      "Customizable branding",
+      "Easy to set up"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Product"
+  },
+  {
+    "keyword": "simple website for car detailing business",
+    "slug": "car-detailing-site",
+    "title": "Shine Online: A High-Converting Page for Car Detailers",
+    "problem_description": "Detailers need to show 'Before/After' shots and a service menu.",
+    "how_to_solve": "A gallery-focused landing page with an 'Inquiry' form for custom quotes.",
+    "use_cases": [
+      "Creating a simple website for a car detailing business",
+      "Showing before/after shots",
+      "Displaying service menu",
+      "Getting custom quotes",
+      "Building a professional online presence"
+    ],
+    "faqs": [
+      {
+        "question": "Can I add before/after shots?",
+        "answer": "Yes, you can add a gallery of before/after shots to showcase your work."
+      },
+      {
+        "question": "Can I add a service menu?",
+        "answer": "Yes, you can add a service menu to show your offerings."
+      },
+      {
+        "question": "Can I add an inquiry form?",
+        "answer": "Yes, you can add an 'Inquiry' form for custom quotes."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I customize the page with my branding?",
+        "answer": "Yes, you can modify the page to match your car detailing business's style."
+      }
+    ],
+    "features_pool": [
+      "Gallery-focused landing page",
+      "Before/After shots",
+      "Service menu",
+      "Inquiry form",
+      "Responsive design",
+      "Customizable branding"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "how to sell coloring pages online",
+    "slug": "sell-coloring-pages",
+    "title": "Creative Income: Selling Digital Coloring Pages for Kids and Adults",
+    "problem_description": "Illustrators want to sell individual PDF pages without a subscription store.",
+    "how_to_solve": "A thumbnail-grid store page with a simple 'Buy All' or 'Buy One' logic.",
+    "use_cases": [
+      "Selling coloring pages online",
+      "Monetizing line art",
+      "Creating digital coloring pages",
+      "Avoiding physical shipping",
+      "Reaching a wider audience"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Stripe account?",
+        "answer": "Yes, you'll need a Stripe account to process payments."
+      },
+      {
+        "question": "How do I deliver the coloring pages?",
+        "answer": "Coloring pages are delivered as digital files via email after payment."
+      },
+      {
+        "question": "Can I sell multiple coloring pages?",
+        "answer": "Yes, you can create a page with multiple coloring pages and separate payment options."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I customize the page with my branding?",
+        "answer": "Yes, you can modify the page to match your artistic brand's style."
+      }
+    ],
+    "features_pool": [
+      "Thumbnail-grid store page",
+      "Buy All or Buy One logic",
+      "Digital download flow",
+      "Stripe integration",
+      "Responsive design",
+      "Easy to set up"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Product"
+  },
+  {
+    "keyword": "sell garden design plans as pdf",
+    "slug": "sell-garden-designs",
+    "title": "Green Thumb Profit: Selling Your Landscape Designs Online",
+    "problem_description": "Landscape designers need to sell 'pre-made' garden plans as digital downloads.",
+    "how_to_solve": "An image-rich landing page with clear 'Plan Specifications' and a buy button.",
+    "use_cases": [
+      "Selling garden design plans as PDFs",
+      "Monetizing landscape design skills",
+      "Creating pre-made garden plans",
+      "Reaching a wider audience",
+      "Building a passive income stream"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Stripe account?",
+        "answer": "Yes, you'll need a Stripe account to process payments."
+      },
+      {
+        "question": "How do I deliver the garden design plans?",
+        "answer": "Plans are delivered as PDF files via email after payment."
+      },
+      {
+        "question": "Can I sell multiple garden plans?",
+        "answer": "Yes, you can create a page with multiple garden plans and separate payment options."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I customize the page with my branding?",
+        "answer": "Yes, you can modify the page to match your landscape design business's style."
+      }
+    ],
+    "features_pool": [
+      "Image-rich landing page",
+      "Plan Specifications section",
+      "Buy button",
+      "PDF delivery",
+      "Stripe integration",
+      "Responsive design"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Product"
+  },
+  {
+    "keyword": "simple website for pest control business",
+    "slug": "pest-control-simple-site",
+    "title": "Bug Free Business: A Simple Lead Page for Pest Control",
+    "problem_description": "Service businesses need a way to receive emergency inquiries 24/7.",
+    "how_to_solve": "A high-visibility 'Emergency Call' button and a 'Request Inspection' form.",
+    "use_cases": [
+      "Creating a simple website for a pest control business",
+      "Receiving emergency inquiries",
+      "Requesting inspections",
+      "Building a professional online presence",
+      "Attracting new customers"
+    ],
+    "faqs": [
+      {
+        "question": "Can I add an 'Emergency Call' button?",
+        "answer": "Yes, you can add a high-visibility 'Emergency Call' button to your site."
+      },
+      {
+        "question": "Can I add a 'Request Inspection' form?",
+        "answer": "Yes, you can add a form for customers to request inspections."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I customize the page with my branding?",
+        "answer": "Yes, you can modify the page to match your pest control business's style."
+      },
+      {
+        "question": "Do I need any technical skills?",
+        "answer": "No, OnePageSaaS generates the code for you."
+      }
+    ],
+    "features_pool": [
+      "High-visibility 'Emergency Call' button",
+      "Request Inspection form",
+      "24/7 emergency inquiries",
+      "Responsive design",
+      "Customizable branding",
+      "Easy to set up"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Service"
+  },
+  {
+    "keyword": "how to sell online courses without a platform",
+    "slug": "sell-courses-no-platform",
+    "title": "Course Sovereignty: Selling Your Knowledge Without Kajabi or Teachable",
+    "problem_description": "The 'Course Creator' middleman platforms are becoming too expensive.",
+    "how_to_solve": "A 'Video-Gated' HTML page that unlocks lessons after a Stripe payment is confirmed.",
+    "use_cases": [
+      "Selling online courses without a platform",
+      "Avoiding middleman fees",
+      "Creating video-gated content",
+      "Monetizing knowledge",
+      "Reaching a wider audience"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Stripe account?",
+        "answer": "Yes, you'll need a Stripe account to process payments."
+      },
+      {
+        "question": "How does the video-gated content work?",
+        "answer": "Lessons are unlocked after a Stripe payment is confirmed."
+      },
+      {
+        "question": "Can I sell multiple courses?",
+        "answer": "Yes, you can create multiple video-gated pages for different courses."
+      },
+      {
+        "question": "Is the page mobile-friendly?",
+        "answer": "Yes, the page is fully responsive and works on all devices."
+      },
+      {
+        "question": "Can I customize the page with my branding?",
+        "answer": "Yes, you can modify the page to match your course brand's style."
+      }
+    ],
+    "features_pool": [
+      "Video-Gated HTML page",
+      "Stripe payment integration",
+      "Lesson unlocking system",
+      "Responsive design",
+      "Customizable branding",
+      "Easy to set up"
+    ],
+    "style_hint": "minimalist",
+    "schema_type": "Product"
+  }
+]
