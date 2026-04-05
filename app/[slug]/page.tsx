@@ -123,6 +123,14 @@ const Page = () => {
     <div className="min-h-screen bg-slate-50">
       {/* 页面内容 */}
       <div className="max-w-7xl mx-auto px-6 py-12">
+        {/* 面包屑导航 */}
+        <div className="mb-6 text-sm text-slate-500">
+          <a href="/" className="hover:text-blue-500">Home</a>
+          {' > '}
+          <a href="/solutions" className="hover:text-blue-500">Solutions</a>
+          {' > '}
+          <span className="text-slate-700">{title}</span>
+        </div>
         <div className="flex flex-col lg:flex-row gap-8">
           {/* 左侧主内容 */}
           <div className="lg:w-2/3">
@@ -269,7 +277,8 @@ document.write(html);`}
 
       {/* 底部文字 */}
       <div className="mt-12 text-center text-sm text-slate-500 pb-12">
-        <p>SaaS is dead, logic lives forever. This is your independent asset.</p>
+        <p>Support: 457239850@qq.com</p>
+        <p className="mt-2">SaaS is dead, logic lives forever. This is your independent asset.</p>
       </div>
     </div>
   );

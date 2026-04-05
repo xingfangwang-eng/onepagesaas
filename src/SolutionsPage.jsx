@@ -84,6 +84,12 @@ const SolutionsPage = () => {
 
       {/* 主内容区 */}
       <div className="max-w-7xl mx-auto px-6 py-12">
+        {/* 面包屑导航 */}
+        <div className="mb-6 text-sm text-slate-500">
+          <a href="/" className="hover:text-blue-500">Home</a>
+          {' > '}
+          <span className="text-slate-700">Solutions</span>
+        </div>
         {/* 页面标题 */}
         <div className="text-center mb-16">
           <h1 className="text-5xl font-black tracking-tighter text-slate-900 mb-4">
@@ -160,6 +166,9 @@ const SolutionsPage = () => {
         {/* 底部信息 */}
         <div className="mt-16 pt-8 border-t border-slate-200 text-center">
           <p className="text-slate-500">
+            Support: 457239850@qq.com
+          </p>
+          <p className="text-slate-500 mt-2">
             SaaS is dead, logic lives forever. This is your independent asset.
           </p>
         </div>

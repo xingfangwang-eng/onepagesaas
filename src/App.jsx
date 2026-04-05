@@ -379,9 +379,39 @@ function App() {
                 </div>
               </div>
               
+              {/* Browse All Alternatives Button */}
+              <div className="mt-8 text-center">
+                <Link to="/solutions" className="inline-block px-6 py-3 bg-primary text-white rounded-lg font-medium hover:opacity-90 transition-colors">
+                  Browse All Alternatives
+                </Link>
+              </div>
+              
+              {/* Quick Access Section */}
+              <div className="mt-12 pt-8 border-t border-slate-200">
+                <h3 className="text-sm font-semibold text-slate-900 mb-4 text-center">Quick Access</h3>
+                <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+                  <a href="/solutions/sell-ebook-no-monthly-fee" className="text-xs text-slate-500 hover:text-blue-500 transition-colors">Sell Ebook</a>
+                  <a href="/solutions/web-form-to-telegram-no-backend" className="text-xs text-slate-500 hover:text-blue-500 transition-colors">Telegram Form</a>
+                  <a href="/solutions/self-hosted-linktree-alternative" className="text-xs text-slate-500 hover:text-blue-500 transition-colors">Link Tree</a>
+                  <a href="/solutions/one-page-site-with-payment" className="text-xs text-slate-500 hover:text-blue-500 transition-colors">Payment Page</a>
+                  <a href="/solutions/bypass-gumroad-transaction-fees" className="text-xs text-slate-500 hover:text-blue-500 transition-colors">Bypass Gumroad</a>
+                  <a href="/solutions/collect-leads-no-database" className="text-xs text-slate-500 hover:text-blue-500 transition-colors">Collect Leads</a>
+                  <a href="/solutions/create-landing-page-no-code" className="text-xs text-slate-500 hover:text-blue-500 transition-colors">Landing Page</a>
+                  <a href="/solutions/host-static-site-for-free" className="text-xs text-slate-500 hover:text-blue-500 transition-colors">Free Hosting</a>
+                  <a href="/solutions/sell-digital-products-simple" className="text-xs text-slate-500 hover:text-blue-500 transition-colors">Digital Products</a>
+                  <a href="/solutions/create-email-capture-form" className="text-xs text-slate-500 hover:text-blue-500 transition-colors">Email Capture</a>
+                  <a href="/solutions/simple-contact-form-no-backend" className="text-xs text-slate-500 hover:text-blue-500 transition-colors">Contact Form</a>
+                  <a href="/solutions/sell-services-online" className="text-xs text-slate-500 hover:text-blue-500 transition-colors">Sell Services</a>
+                  <a href="/solutions/create-resume-site" className="text-xs text-slate-500 hover:text-blue-500 transition-colors">Resume Site</a>
+                  <a href="/solutions/portfolio-site-no-cms" className="text-xs text-slate-500 hover:text-blue-500 transition-colors">Portfolio</a>
+                  <a href="/solutions/create-blog-no-cms" className="text-xs text-slate-500 hover:text-blue-500 transition-colors">Blog</a>
+                </div>
+              </div>
+              
               {/* Footer */}
               <div className="mt-12 text-center text-sm text-slate-500">
-                <p>SaaS is dead, logic lives forever. This is your independent asset.</p>
+                <p>Support: 457239850@qq.com</p>
+                <p className="mt-2">SaaS is dead, logic lives forever. This is your independent asset.</p>
               </div>
             </div>
           </div>

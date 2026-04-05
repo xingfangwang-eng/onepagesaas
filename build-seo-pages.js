@@ -181,6 +181,8 @@ const generatePage = (keyword) => {
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>${keyword.title}</title>
   <meta name="description" content="${keyword.problem_description}">
+  <!-- Google Search HTML 验证标签 -->
+  <meta name="google-site-verification" content="YOUR_VERIFICATION_CODE" />
   <script src="https://cdn.tailwindcss.com" onerror="console.error('Error loading Tailwind CSS:', event)"></script>
   <script>
     tailwind.config = {
