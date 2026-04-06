@@ -3,7 +3,7 @@ import './App.css'
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom'
 import { generateHTML } from './generator'
 import { generateWorkerScript } from './workerGenerator'
-import Page from '../app/[slug]/page'
+import Page from './Page'
 import SolutionsPage from './SolutionsPage'
 
 function App() {
@@ -125,8 +125,6 @@ function App() {
   return (
     <Router>
       <Routes>
-        {/* 动态路由 */}
-        <Route path="/:slug" element={<Page />} />
         {/* 主页 */}
         <Route path="/" element={
           <div className="min-h-screen bg-gray-50">
@@ -418,6 +416,8 @@ function App() {
         } />
         <Route path="/solutions" element={<SolutionsPage />} />
         <Route path="/solutions/:slug" element={<Page />} />
+        {/* 动态路由 - 放在最后 */}
+        <Route path="/:slug" element={<Page />} />
       </Routes>
     </Router>
   )
